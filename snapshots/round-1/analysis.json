@@ -1,0 +1,4256 @@
+{
+ "count": 175,
+ "failed": 25,
+ "shots": [
+  {
+   "file": "snapshots/round-1/glacier/leather/angle.png",
+   "color": "glacier",
+   "band": "leather",
+   "preset": "angle",
+   "coverage": 0.293,
+   "bbox": [
+    233,
+    108,
+    732,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 124.4,
+   "max_lum": 241,
+   "bright_ratio": 0.5071,
+   "mean_rgb": [
+    225,
+    226,
+    226
+   ],
+   "hue": 180.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/leather/back.png",
+   "color": "glacier",
+   "band": "leather",
+   "preset": "back",
+   "coverage": 0.3664,
+   "bbox": [
+    262,
+    99,
+    807,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 163.5,
+   "max_lum": 241,
+   "bright_ratio": 0.6972,
+   "mean_rgb": [
+    227,
+    227,
+    226
+   ],
+   "hue": 60.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glacier/leather/front.png",
+   "color": "glacier",
+   "band": "leather",
+   "preset": "front",
+   "coverage": 0.171,
+   "bbox": [
+    232,
+    77,
+    667,
+    786
+   ],
+   "touches_border": false,
+   "mean_lum": 86.1,
+   "max_lum": 255,
+   "bright_ratio": 0.2472,
+   "mean_rgb": [
+    195,
+    199,
+    194
+   ],
+   "hue": 108.00000000000007,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/leather/left.png",
+   "color": "glacier",
+   "band": "leather",
+   "preset": "left",
+   "coverage": 0.316,
+   "bbox": [
+    82,
+    96,
+    705,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 80.5,
+   "max_lum": 255,
+   "bright_ratio": 0.2443,
+   "mean_rgb": [
+    212,
+    213,
+    213
+   ],
+   "hue": 180.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/leather/lug.png",
+   "color": "glacier",
+   "band": "leather",
+   "preset": "lug",
+   "coverage": 0.6673,
+   "bbox": [
+    7,
+    85,
+    803,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 118.7,
+   "max_lum": 255,
+   "bright_ratio": 0.4905,
+   "mean_rgb": [
+    225,
+    225,
+    226
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/leather/macro.png",
+   "color": "glacier",
+   "band": "leather",
+   "preset": "macro",
+   "coverage": 0.8691,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 46.9,
+   "max_lum": 255,
+   "bright_ratio": 0.1481,
+   "mean_rgb": [
+    154,
+    157,
+    161
+   ],
+   "hue": 214.28571428571414,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/leather/right.png",
+   "color": "glacier",
+   "band": "leather",
+   "preset": "right",
+   "coverage": 0.314,
+   "bbox": [
+    194,
+    96,
+    817,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 82.6,
+   "max_lum": 253,
+   "bright_ratio": 0.2567,
+   "mean_rgb": [
+    213,
+    214,
+    215
+   ],
+   "hue": 210.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/mesh/angle.png",
+   "color": "glacier",
+   "band": "mesh",
+   "preset": "angle",
+   "coverage": 0.2887,
+   "bbox": [
+    233,
+    113,
+    731,
+    750
+   ],
+   "touches_border": false,
+   "mean_lum": 110.4,
+   "max_lum": 254,
+   "bright_ratio": 0.4476,
+   "mean_rgb": [
+    209,
+    210,
+    210
+   ],
+   "hue": 180.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/mesh/back.png",
+   "color": "glacier",
+   "band": "mesh",
+   "preset": "back",
+   "coverage": 0.3606,
+   "bbox": [
+    262,
+    100,
+    806,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 143.6,
+   "max_lum": 255,
+   "bright_ratio": 0.5951,
+   "mean_rgb": [
+    226,
+    226,
+    225
+   ],
+   "hue": 60.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glacier/mesh/front.png",
+   "color": "glacier",
+   "band": "mesh",
+   "preset": "front",
+   "coverage": 0.1691,
+   "bbox": [
+    232,
+    78,
+    667,
+    781
+   ],
+   "touches_border": false,
+   "mean_lum": 77.4,
+   "max_lum": 255,
+   "bright_ratio": 0.1677,
+   "mean_rgb": [
+    170,
+    174,
+    168
+   ],
+   "hue": 100.0000000000001,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/mesh/left.png",
+   "color": "glacier",
+   "band": "mesh",
+   "preset": "left",
+   "coverage": 0.301,
+   "bbox": [
+    87,
+    101,
+    705,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 67.9,
+   "max_lum": 255,
+   "bright_ratio": 0.1945,
+   "mean_rgb": [
+    181,
+    181,
+    181
+   ],
+   "hue": null,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/mesh/lug.png",
+   "color": "glacier",
+   "band": "mesh",
+   "preset": "lug",
+   "coverage": 0.6606,
+   "bbox": [
+    7,
+    92,
+    802,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 103.1,
+   "max_lum": 255,
+   "bright_ratio": 0.4231,
+   "mean_rgb": [
+    198,
+    200,
+    201
+   ],
+   "hue": 200.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/mesh/macro.png",
+   "color": "glacier",
+   "band": "mesh",
+   "preset": "macro",
+   "coverage": 0.8693,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 41.4,
+   "max_lum": 255,
+   "bright_ratio": 0.0712,
+   "mean_rgb": [
+    118,
+    121,
+    125
+   ],
+   "hue": 214.28571428571433,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/mesh/right.png",
+   "color": "glacier",
+   "band": "mesh",
+   "preset": "right",
+   "coverage": 0.299,
+   "bbox": [
+    194,
+    101,
+    812,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 68.0,
+   "max_lum": 255,
+   "bright_ratio": 0.193,
+   "mean_rgb": [
+    175,
+    176,
+    175
+   ],
+   "hue": 120.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/metal/angle.png",
+   "color": "glacier",
+   "band": "metal",
+   "preset": "angle",
+   "coverage": 0.2663,
+   "bbox": [
+    233,
+    110,
+    727,
+    751
+   ],
+   "touches_border": false,
+   "mean_lum": 98.9,
+   "max_lum": 253,
+   "bright_ratio": 0.379,
+   "mean_rgb": [
+    205,
+    207,
+    208
+   ],
+   "hue": 200.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/metal/back.png",
+   "color": "glacier",
+   "band": "metal",
+   "preset": "back",
+   "coverage": 0.2997,
+   "bbox": [
+    262,
+    136,
+    801,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 141.5,
+   "max_lum": 255,
+   "bright_ratio": 0.5871,
+   "mean_rgb": [
+    222,
+    222,
+    221
+   ],
+   "hue": 60.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glacier/metal/front.png",
+   "color": "glacier",
+   "band": "metal",
+   "preset": "front",
+   "coverage": 0.1675,
+   "bbox": [
+    232,
+    87,
+    667,
+    787
+   ],
+   "touches_border": false,
+   "mean_lum": 80.9,
+   "max_lum": 255,
+   "bright_ratio": 0.2109,
+   "mean_rgb": [
+    192,
+    194,
+    190
+   ],
+   "hue": 90.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/metal/left.png",
+   "color": "glacier",
+   "band": "metal",
+   "preset": "left",
+   "coverage": 0.2885,
+   "bbox": [
+    91,
+    98,
+    705,
+    803
+   ],
+   "touches_border": false,
+   "mean_lum": 65.1,
+   "max_lum": 255,
+   "bright_ratio": 0.1642,
+   "mean_rgb": [
+    168,
+    170,
+    172
+   ],
+   "hue": 210.00000000000023,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/metal/lug.png",
+   "color": "glacier",
+   "band": "metal",
+   "preset": "lug",
+   "coverage": 0.5901,
+   "bbox": [
+    7,
+    86,
+    796,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 93.9,
+   "max_lum": 255,
+   "bright_ratio": 0.3737,
+   "mean_rgb": [
+    205,
+    207,
+    208
+   ],
+   "hue": 200.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/metal/macro.png",
+   "color": "glacier",
+   "band": "metal",
+   "preset": "macro",
+   "coverage": 0.85,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 36.6,
+   "max_lum": 255,
+   "bright_ratio": 0.0733,
+   "mean_rgb": [
+    106,
+    108,
+    111
+   ],
+   "hue": 216.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/metal/right.png",
+   "color": "glacier",
+   "band": "metal",
+   "preset": "right",
+   "coverage": 0.286,
+   "bbox": [
+    194,
+    98,
+    808,
+    803
+   ],
+   "touches_border": false,
+   "mean_lum": 66.7,
+   "max_lum": 255,
+   "bright_ratio": 0.1716,
+   "mean_rgb": [
+    169,
+    171,
+    173
+   ],
+   "hue": 210.00000000000023,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/tpu/angle.png",
+   "color": "glacier",
+   "band": "tpu",
+   "preset": "angle",
+   "coverage": 0.2861,
+   "bbox": [
+    233,
+    109,
+    735,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 120.2,
+   "max_lum": 241,
+   "bright_ratio": 0.4861,
+   "mean_rgb": [
+    224,
+    225,
+    225
+   ],
+   "hue": 180.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/tpu/back.png",
+   "color": "glacier",
+   "band": "tpu",
+   "preset": "back",
+   "coverage": 0.3525,
+   "bbox": [
+    262,
+    99,
+    812,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 158.6,
+   "max_lum": 235,
+   "bright_ratio": 0.6663,
+   "mean_rgb": [
+    227,
+    227,
+    226
+   ],
+   "hue": 60.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glacier/tpu/front.png",
+   "color": "glacier",
+   "band": "tpu",
+   "preset": "front",
+   "coverage": 0.1726,
+   "bbox": [
+    232,
+    77,
+    667,
+    784
+   ],
+   "touches_border": false,
+   "mean_lum": 85.6,
+   "max_lum": 255,
+   "bright_ratio": 0.2439,
+   "mean_rgb": [
+    189,
+    194,
+    189
+   ],
+   "hue": 120.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/tpu/left.png",
+   "color": "glacier",
+   "band": "tpu",
+   "preset": "left",
+   "coverage": 0.3063,
+   "bbox": [
+    83,
+    98,
+    705,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 75.3,
+   "max_lum": 255,
+   "bright_ratio": 0.2149,
+   "mean_rgb": [
+    192,
+    192,
+    193
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/tpu/lug.png",
+   "color": "glacier",
+   "band": "tpu",
+   "preset": "lug",
+   "coverage": 0.6489,
+   "bbox": [
+    7,
+    87,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 116.3,
+   "max_lum": 255,
+   "bright_ratio": 0.4791,
+   "mean_rgb": [
+    224,
+    224,
+    225
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/tpu/macro.png",
+   "color": "glacier",
+   "band": "tpu",
+   "preset": "macro",
+   "coverage": 0.8692,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 46.9,
+   "max_lum": 255,
+   "bright_ratio": 0.1486,
+   "mean_rgb": [
+    161,
+    165,
+    167
+   ],
+   "hue": 199.99999999999991,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/tpu/right.png",
+   "color": "glacier",
+   "band": "tpu",
+   "preset": "right",
+   "coverage": 0.3044,
+   "bbox": [
+    194,
+    98,
+    816,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 77.0,
+   "max_lum": 253,
+   "bright_ratio": 0.2285,
+   "mean_rgb": [
+    195,
+    196,
+    197
+   ],
+   "hue": 209.99999999999957,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/woven/angle.png",
+   "color": "glacier",
+   "band": "woven",
+   "preset": "angle",
+   "coverage": 0.299,
+   "bbox": [
+    233,
+    107,
+    736,
+    756
+   ],
+   "touches_border": false,
+   "mean_lum": 102.8,
+   "max_lum": 241,
+   "bright_ratio": 0.4227,
+   "mean_rgb": [
+    200,
+    189,
+    177
+   ],
+   "hue": 31.30434782608699,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/woven/back.png",
+   "color": "glacier",
+   "band": "woven",
+   "preset": "back",
+   "coverage": 0.3745,
+   "bbox": [
+    262,
+    100,
+    813,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 129.3,
+   "max_lum": 235,
+   "bright_ratio": 0.5519,
+   "mean_rgb": [
+    202,
+    189,
+    175
+   ],
+   "hue": 31.111111111111136,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glacier/woven/front.png",
+   "color": "glacier",
+   "band": "woven",
+   "preset": "front",
+   "coverage": 0.1729,
+   "bbox": [
+    232,
+    80,
+    667,
+    788
+   ],
+   "touches_border": false,
+   "mean_lum": 78.1,
+   "max_lum": 255,
+   "bright_ratio": 0.1834,
+   "mean_rgb": [
+    191,
+    189,
+    178
+   ],
+   "hue": 50.76923076923081,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/woven/left.png",
+   "color": "glacier",
+   "band": "woven",
+   "preset": "left",
+   "coverage": 0.3176,
+   "bbox": [
+    80,
+    95,
+    705,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 67.1,
+   "max_lum": 255,
+   "bright_ratio": 0.1879,
+   "mean_rgb": [
+    188,
+    175,
+    161
+   ],
+   "hue": 31.11111111111111,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/woven/lug.png",
+   "color": "glacier",
+   "band": "woven",
+   "preset": "lug",
+   "coverage": 0.6789,
+   "bbox": [
+    7,
+    83,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 96.9,
+   "max_lum": 255,
+   "bright_ratio": 0.3945,
+   "mean_rgb": [
+    200,
+    189,
+    178
+   ],
+   "hue": 30.00000000000004,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/woven/macro.png",
+   "color": "glacier",
+   "band": "woven",
+   "preset": "macro",
+   "coverage": 0.869,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 39.8,
+   "max_lum": 255,
+   "bright_ratio": 0.0827,
+   "mean_rgb": [
+    114,
+    115,
+    114
+   ],
+   "hue": 120.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glacier/woven/right.png",
+   "color": "glacier",
+   "band": "woven",
+   "preset": "right",
+   "coverage": 0.3147,
+   "bbox": [
+    194,
+    95,
+    819,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 69.1,
+   "max_lum": 253,
+   "bright_ratio": 0.1918,
+   "mean_rgb": [
+    187,
+    176,
+    165
+   ],
+   "hue": 30.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/leather/angle.png",
+   "color": "glimmer",
+   "band": "leather",
+   "preset": "angle",
+   "coverage": 0.2929,
+   "bbox": [
+    233,
+    108,
+    732,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 103.7,
+   "max_lum": 241,
+   "bright_ratio": 0.4264,
+   "mean_rgb": [
+    216,
+    199,
+    169
+   ],
+   "hue": 38.29787234042554,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/leather/back.png",
+   "color": "glimmer",
+   "band": "leather",
+   "preset": "back",
+   "coverage": 0.3661,
+   "bbox": [
+    262,
+    100,
+    807,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 134.2,
+   "max_lum": 231,
+   "bright_ratio": 0.5729,
+   "mean_rgb": [
+    218,
+    201,
+    173
+   ],
+   "hue": 37.33333333333333,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glimmer/leather/front.png",
+   "color": "glimmer",
+   "band": "leather",
+   "preset": "front",
+   "coverage": 0.1707,
+   "bbox": [
+    232,
+    77,
+    667,
+    786
+   ],
+   "touches_border": false,
+   "mean_lum": 76.3,
+   "max_lum": 255,
+   "bright_ratio": 0.1599,
+   "mean_rgb": [
+    191,
+    179,
+    144
+   ],
+   "hue": 44.68085106382977,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/leather/left.png",
+   "color": "glimmer",
+   "band": "leather",
+   "preset": "left",
+   "coverage": 0.3146,
+   "bbox": [
+    82,
+    96,
+    705,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 64.8,
+   "max_lum": 255,
+   "bright_ratio": 0.1787,
+   "mean_rgb": [
+    200,
+    180,
+    146
+   ],
+   "hue": 37.7777777777778,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/leather/lug.png",
+   "color": "glimmer",
+   "band": "leather",
+   "preset": "lug",
+   "coverage": 0.6672,
+   "bbox": [
+    7,
+    85,
+    803,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 97.7,
+   "max_lum": 255,
+   "bright_ratio": 0.3983,
+   "mean_rgb": [
+    214,
+    198,
+    167
+   ],
+   "hue": 39.57446808510639,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/leather/macro.png",
+   "color": "glimmer",
+   "band": "leather",
+   "preset": "macro",
+   "coverage": 0.8691,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 39.5,
+   "max_lum": 255,
+   "bright_ratio": 0.0571,
+   "mean_rgb": [
+    136,
+    119,
+    97
+   ],
+   "hue": 33.846153846153854,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/leather/right.png",
+   "color": "glimmer",
+   "band": "leather",
+   "preset": "right",
+   "coverage": 0.3114,
+   "bbox": [
+    194,
+    96,
+    817,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 67.3,
+   "max_lum": 253,
+   "bright_ratio": 0.1882,
+   "mean_rgb": [
+    200,
+    182,
+    154
+   ],
+   "hue": 36.521739130434796,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/mesh/angle.png",
+   "color": "glimmer",
+   "band": "mesh",
+   "preset": "angle",
+   "coverage": 0.2884,
+   "bbox": [
+    233,
+    113,
+    731,
+    750
+   ],
+   "touches_border": false,
+   "mean_lum": 88.7,
+   "max_lum": 251,
+   "bright_ratio": 0.2301,
+   "mean_rgb": [
+    199,
+    180,
+    145
+   ],
+   "hue": 38.8888888888889,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/mesh/back.png",
+   "color": "glimmer",
+   "band": "mesh",
+   "preset": "back",
+   "coverage": 0.3613,
+   "bbox": [
+    262,
+    100,
+    806,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 114.2,
+   "max_lum": 254,
+   "bright_ratio": 0.3664,
+   "mean_rgb": [
+    219,
+    204,
+    176
+   ],
+   "hue": 39.06976744186049,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glimmer/mesh/front.png",
+   "color": "glimmer",
+   "band": "mesh",
+   "preset": "front",
+   "coverage": 0.1691,
+   "bbox": [
+    232,
+    78,
+    667,
+    781
+   ],
+   "touches_border": false,
+   "mean_lum": 68.2,
+   "max_lum": 255,
+   "bright_ratio": 0.1058,
+   "mean_rgb": [
+    161,
+    139,
+    130
+   ],
+   "hue": 17.41935483870967,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/mesh/left.png",
+   "color": "glimmer",
+   "band": "mesh",
+   "preset": "left",
+   "coverage": 0.3,
+   "bbox": [
+    87,
+    101,
+    705,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 54.1,
+   "max_lum": 255,
+   "bright_ratio": 0.034,
+   "mean_rgb": [
+    166,
+    142,
+    108
+   ],
+   "hue": 35.17241379310345,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/mesh/lug.png",
+   "color": "glimmer",
+   "band": "mesh",
+   "preset": "lug",
+   "coverage": 0.66,
+   "bbox": [
+    7,
+    93,
+    802,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 80.8,
+   "max_lum": 255,
+   "bright_ratio": 0.1903,
+   "mean_rgb": [
+    185,
+    163,
+    124
+   ],
+   "hue": 38.36065573770491,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/mesh/macro.png",
+   "color": "glimmer",
+   "band": "mesh",
+   "preset": "macro",
+   "coverage": 0.8693,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 35.0,
+   "max_lum": 255,
+   "bright_ratio": 0.0517,
+   "mean_rgb": [
+    109,
+    98,
+    83
+   ],
+   "hue": 34.615384615384635,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/mesh/right.png",
+   "color": "glimmer",
+   "band": "mesh",
+   "preset": "right",
+   "coverage": 0.2986,
+   "bbox": [
+    194,
+    101,
+    812,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 53.3,
+   "max_lum": 253,
+   "bright_ratio": 0.0295,
+   "mean_rgb": [
+    158,
+    133,
+    96
+   ],
+   "hue": 35.80645161290323,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/metal/angle.png",
+   "color": "glimmer",
+   "band": "metal",
+   "preset": "angle",
+   "coverage": 0.266,
+   "bbox": [
+    233,
+    110,
+    727,
+    751
+   ],
+   "touches_border": false,
+   "mean_lum": 80.5,
+   "max_lum": 249,
+   "bright_ratio": 0.2642,
+   "mean_rgb": [
+    194,
+    173,
+    136
+   ],
+   "hue": 38.27586206896554,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/metal/back.png",
+   "color": "glimmer",
+   "band": "metal",
+   "preset": "back",
+   "coverage": 0.2988,
+   "bbox": [
+    262,
+    136,
+    801,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 114.1,
+   "max_lum": 254,
+   "bright_ratio": 0.4421,
+   "mean_rgb": [
+    213,
+    195,
+    166
+   ],
+   "hue": 37.02127659574465,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glimmer/metal/front.png",
+   "color": "glimmer",
+   "band": "metal",
+   "preset": "front",
+   "coverage": 0.1672,
+   "bbox": [
+    232,
+    87,
+    667,
+    787
+   ],
+   "touches_border": false,
+   "mean_lum": 73.7,
+   "max_lum": 255,
+   "bright_ratio": 0.1538,
+   "mean_rgb": [
+    182,
+    168,
+    142
+   ],
+   "hue": 38.999999999999986,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/metal/left.png",
+   "color": "glimmer",
+   "band": "metal",
+   "preset": "left",
+   "coverage": 0.2871,
+   "bbox": [
+    91,
+    98,
+    705,
+    802
+   ],
+   "touches_border": false,
+   "mean_lum": 51.9,
+   "max_lum": 255,
+   "bright_ratio": 0.0813,
+   "mean_rgb": [
+    156,
+    134,
+    107
+   ],
+   "hue": 33.06122448979592,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/metal/lug.png",
+   "color": "glimmer",
+   "band": "metal",
+   "preset": "lug",
+   "coverage": 0.5898,
+   "bbox": [
+    7,
+    86,
+    796,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 75.8,
+   "max_lum": 255,
+   "bright_ratio": 0.2472,
+   "mean_rgb": [
+    192,
+    171,
+    134
+   ],
+   "hue": 38.2758620689655,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/metal/macro.png",
+   "color": "glimmer",
+   "band": "metal",
+   "preset": "macro",
+   "coverage": 0.8498,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 32.5,
+   "max_lum": 255,
+   "bright_ratio": 0.0564,
+   "mean_rgb": [
+    103,
+    100,
+    88
+   ],
+   "hue": 47.999999999999986,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/metal/right.png",
+   "color": "glimmer",
+   "band": "metal",
+   "preset": "right",
+   "coverage": 0.286,
+   "bbox": [
+    194,
+    98,
+    808,
+    802
+   ],
+   "touches_border": false,
+   "mean_lum": 52.7,
+   "max_lum": 255,
+   "bright_ratio": 0.05,
+   "mean_rgb": [
+    153,
+    135,
+    101
+   ],
+   "hue": 39.23076923076924,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/tpu/angle.png",
+   "color": "glimmer",
+   "band": "tpu",
+   "preset": "angle",
+   "coverage": 0.2859,
+   "bbox": [
+    233,
+    109,
+    735,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 99.9,
+   "max_lum": 241,
+   "bright_ratio": 0.4036,
+   "mean_rgb": [
+    214,
+    198,
+    167
+   ],
+   "hue": 39.57446808510639,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/tpu/back.png",
+   "color": "glimmer",
+   "band": "tpu",
+   "preset": "back",
+   "coverage": 0.3511,
+   "bbox": [
+    262,
+    100,
+    812,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 129.7,
+   "max_lum": 230,
+   "bright_ratio": 0.5356,
+   "mean_rgb": [
+    218,
+    201,
+    172
+   ],
+   "hue": 37.826086956521735,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glimmer/tpu/front.png",
+   "color": "glimmer",
+   "band": "tpu",
+   "preset": "front",
+   "coverage": 0.1724,
+   "bbox": [
+    232,
+    77,
+    667,
+    784
+   ],
+   "touches_border": false,
+   "mean_lum": 75.0,
+   "max_lum": 255,
+   "bright_ratio": 0.1517,
+   "mean_rgb": [
+    183,
+    169,
+    141
+   ],
+   "hue": 39.999999999999986,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/tpu/left.png",
+   "color": "glimmer",
+   "band": "tpu",
+   "preset": "left",
+   "coverage": 0.3055,
+   "bbox": [
+    83,
+    98,
+    705,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 59.8,
+   "max_lum": 255,
+   "bright_ratio": 0.1423,
+   "mean_rgb": [
+    177,
+    156,
+    125
+   ],
+   "hue": 35.76923076923079,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/tpu/lug.png",
+   "color": "glimmer",
+   "band": "tpu",
+   "preset": "lug",
+   "coverage": 0.6487,
+   "bbox": [
+    7,
+    88,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 95.5,
+   "max_lum": 255,
+   "bright_ratio": 0.39,
+   "mean_rgb": [
+    213,
+    196,
+    164
+   ],
+   "hue": 39.183673469387756,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/tpu/macro.png",
+   "color": "glimmer",
+   "band": "tpu",
+   "preset": "macro",
+   "coverage": 0.8692,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 39.4,
+   "max_lum": 255,
+   "bright_ratio": 0.0555,
+   "mean_rgb": [
+    142,
+    125,
+    92
+   ],
+   "hue": 39.59999999999999,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/tpu/right.png",
+   "color": "glimmer",
+   "band": "tpu",
+   "preset": "right",
+   "coverage": 0.3023,
+   "bbox": [
+    194,
+    98,
+    816,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 61.5,
+   "max_lum": 253,
+   "bright_ratio": 0.1471,
+   "mean_rgb": [
+    180,
+    159,
+    133
+   ],
+   "hue": 33.19148936170212,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/woven/angle.png",
+   "color": "glimmer",
+   "band": "woven",
+   "preset": "angle",
+   "coverage": 0.2988,
+   "bbox": [
+    233,
+    107,
+    736,
+    756
+   ],
+   "touches_border": false,
+   "mean_lum": 80.2,
+   "max_lum": 241,
+   "bright_ratio": 0.1475,
+   "mean_rgb": [
+    186,
+    153,
+    116
+   ],
+   "hue": 31.714285714285715,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/woven/back.png",
+   "color": "glimmer",
+   "band": "woven",
+   "preset": "back",
+   "coverage": 0.3772,
+   "bbox": [
+    262,
+    100,
+    813,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 97.7,
+   "max_lum": 222,
+   "bright_ratio": 0.1504,
+   "mean_rgb": [
+    187,
+    152,
+    114
+   ],
+   "hue": 31.23287671232877,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/glimmer/woven/front.png",
+   "color": "glimmer",
+   "band": "woven",
+   "preset": "front",
+   "coverage": 0.174,
+   "bbox": [
+    232,
+    77,
+    667,
+    788
+   ],
+   "touches_border": false,
+   "mean_lum": 69.3,
+   "max_lum": 255,
+   "bright_ratio": 0.1507,
+   "mean_rgb": [
+    182,
+    162,
+    140
+   ],
+   "hue": 31.428571428571402,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/woven/left.png",
+   "color": "glimmer",
+   "band": "woven",
+   "preset": "left",
+   "coverage": 0.3174,
+   "bbox": [
+    80,
+    95,
+    705,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 53.2,
+   "max_lum": 255,
+   "bright_ratio": 0.0587,
+   "mean_rgb": [
+    171,
+    135,
+    95
+   ],
+   "hue": 31.57894736842106,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/woven/lug.png",
+   "color": "glimmer",
+   "band": "woven",
+   "preset": "lug",
+   "coverage": 0.6788,
+   "bbox": [
+    7,
+    83,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 74.4,
+   "max_lum": 255,
+   "bright_ratio": 0.1207,
+   "mean_rgb": [
+    185,
+    150,
+    107
+   ],
+   "hue": 33.07692307692309,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/woven/macro.png",
+   "color": "glimmer",
+   "band": "woven",
+   "preset": "macro",
+   "coverage": 0.869,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 34.3,
+   "max_lum": 255,
+   "bright_ratio": 0.0569,
+   "mean_rgb": [
+    111,
+    101,
+    88
+   ],
+   "hue": 33.91304347826085,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/glimmer/woven/right.png",
+   "color": "glimmer",
+   "band": "woven",
+   "preset": "right",
+   "coverage": 0.3167,
+   "bbox": [
+    194,
+    96,
+    819,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 54.4,
+   "max_lum": 253,
+   "bright_ratio": 0.0413,
+   "mean_rgb": [
+    170,
+    138,
+    104
+   ],
+   "hue": 30.909090909090907,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/leather/angle.png",
+   "color": "midnight",
+   "band": "leather",
+   "preset": "angle",
+   "coverage": 0.2628,
+   "bbox": [
+    233,
+    108,
+    731,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 40.5,
+   "max_lum": 241,
+   "bright_ratio": 0.0191,
+   "mean_rgb": [
+    95,
+    94,
+    94
+   ],
+   "hue": 0.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/leather/back.png",
+   "color": "midnight",
+   "band": "leather",
+   "preset": "back",
+   "coverage": 0.3352,
+   "bbox": [
+    262,
+    100,
+    807,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 46.6,
+   "max_lum": 185,
+   "bright_ratio": 0.0014,
+   "mean_rgb": [
+    96,
+    95,
+    96
+   ],
+   "hue": 300.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/midnight/leather/front.png",
+   "color": "midnight",
+   "band": "leather",
+   "preset": "front",
+   "coverage": 0.1666,
+   "bbox": [
+    232,
+    77,
+    667,
+    786
+   ],
+   "touches_border": false,
+   "mean_lum": 53.1,
+   "max_lum": 255,
+   "bright_ratio": 0.0642,
+   "mean_rgb": [
+    125,
+    128,
+    129
+   ],
+   "hue": 194.99999999999994,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/leather/left.png",
+   "color": "midnight",
+   "band": "leather",
+   "preset": "left",
+   "coverage": 0.2836,
+   "bbox": [
+    82,
+    97,
+    705,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 28.8,
+   "max_lum": 253,
+   "bright_ratio": 0.0042,
+   "mean_rgb": [
+    54,
+    54,
+    57
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/leather/lug.png",
+   "color": "midnight",
+   "band": "leather",
+   "preset": "lug",
+   "coverage": 0.6061,
+   "bbox": [
+    8,
+    85,
+    801,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 33.7,
+   "max_lum": 255,
+   "bright_ratio": 0.0211,
+   "mean_rgb": [
+    57,
+    58,
+    62
+   ],
+   "hue": 228.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/leather/macro.png",
+   "color": "midnight",
+   "band": "leather",
+   "preset": "macro",
+   "coverage": 0.8499,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 23.1,
+   "max_lum": 255,
+   "bright_ratio": 0.0293,
+   "mean_rgb": [
+    65,
+    67,
+    69
+   ],
+   "hue": 209.9999999999999,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/leather/right.png",
+   "color": "midnight",
+   "band": "leather",
+   "preset": "right",
+   "coverage": 0.2868,
+   "bbox": [
+    194,
+    97,
+    817,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 29.9,
+   "max_lum": 248,
+   "bright_ratio": 0.0023,
+   "mean_rgb": [
+    63,
+    65,
+    69
+   ],
+   "hue": 220.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/mesh/angle.png",
+   "color": "midnight",
+   "band": "mesh",
+   "preset": "angle",
+   "coverage": 0.2229,
+   "bbox": [
+    233,
+    113,
+    730,
+    750
+   ],
+   "touches_border": false,
+   "mean_lum": 34.9,
+   "max_lum": 241,
+   "bright_ratio": 0.0436,
+   "mean_rgb": [
+    89,
+    88,
+    89
+   ],
+   "hue": 300.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/mesh/back.png",
+   "color": "midnight",
+   "band": "mesh",
+   "preset": "back",
+   "coverage": 0.2793,
+   "bbox": [
+    262,
+    99,
+    805,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 41.0,
+   "max_lum": 250,
+   "bright_ratio": 0.002,
+   "mean_rgb": [
+    112,
+    112,
+    113
+   ],
+   "hue": 240.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/midnight/mesh/front.png",
+   "color": "midnight",
+   "band": "mesh",
+   "preset": "front",
+   "coverage": 0.1613,
+   "bbox": [
+    232,
+    78,
+    667,
+    781
+   ],
+   "touches_border": false,
+   "mean_lum": 48.6,
+   "max_lum": 255,
+   "bright_ratio": 0.0622,
+   "mean_rgb": [
+    120,
+    122,
+    124
+   ],
+   "hue": 209.9999999999999,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/mesh/left.png",
+   "color": "midnight",
+   "band": "mesh",
+   "preset": "left",
+   "coverage": 0.2842,
+   "bbox": [
+    87,
+    101,
+    705,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 26.0,
+   "max_lum": 253,
+   "bright_ratio": 0.0044,
+   "mean_rgb": [
+    42,
+    42,
+    44
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/mesh/lug.png",
+   "color": "midnight",
+   "band": "mesh",
+   "preset": "lug",
+   "coverage": 0.4947,
+   "bbox": [
+    8,
+    93,
+    802,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 25.8,
+   "max_lum": 255,
+   "bright_ratio": 0.0444,
+   "mean_rgb": [
+    46,
+    46,
+    50
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/mesh/macro.png",
+   "color": "midnight",
+   "band": "mesh",
+   "preset": "macro",
+   "coverage": 0.8568,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 21.9,
+   "max_lum": 255,
+   "bright_ratio": 0.0254,
+   "mean_rgb": [
+    66,
+    67,
+    70
+   ],
+   "hue": 225.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/mesh/right.png",
+   "color": "midnight",
+   "band": "mesh",
+   "preset": "right",
+   "coverage": 0.2404,
+   "bbox": [
+    194,
+    101,
+    812,
+    800
+   ],
+   "touches_border": false,
+   "mean_lum": 22.7,
+   "max_lum": 248,
+   "bright_ratio": 0.0032,
+   "mean_rgb": [
+    23,
+    24,
+    28
+   ],
+   "hue": 228.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/metal/angle.png",
+   "color": "midnight",
+   "band": "metal",
+   "preset": "angle",
+   "coverage": 0.2184,
+   "bbox": [
+    233,
+    110,
+    725,
+    750
+   ],
+   "touches_border": false,
+   "mean_lum": 33.4,
+   "max_lum": 243,
+   "bright_ratio": 0.0413,
+   "mean_rgb": [
+    74,
+    74,
+    75
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/metal/back.png",
+   "color": "midnight",
+   "band": "metal",
+   "preset": "back",
+   "coverage": 0.2351,
+   "bbox": [
+    262,
+    136,
+    801,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 42.2,
+   "max_lum": 251,
+   "bright_ratio": 0.0058,
+   "mean_rgb": [
+    101,
+    101,
+    102
+   ],
+   "hue": 240.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/midnight/metal/front.png",
+   "color": "midnight",
+   "band": "metal",
+   "preset": "front",
+   "coverage": 0.1601,
+   "bbox": [
+    232,
+    87,
+    667,
+    786
+   ],
+   "touches_border": false,
+   "mean_lum": 57.2,
+   "max_lum": 255,
+   "bright_ratio": 0.0951,
+   "mean_rgb": [
+    127,
+    130,
+    131
+   ],
+   "hue": 195.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/metal/left.png",
+   "color": "midnight",
+   "band": "metal",
+   "preset": "left",
+   "coverage": 0.2697,
+   "bbox": [
+    91,
+    98,
+    705,
+    803
+   ],
+   "touches_border": false,
+   "mean_lum": 24.9,
+   "max_lum": 253,
+   "bright_ratio": 0.0047,
+   "mean_rgb": [
+    43,
+    43,
+    45
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/metal/lug.png",
+   "color": "midnight",
+   "band": "metal",
+   "preset": "lug",
+   "coverage": 0.4749,
+   "bbox": [
+    8,
+    86,
+    796,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 29.4,
+   "max_lum": 255,
+   "bright_ratio": 0.0467,
+   "mean_rgb": [
+    53,
+    53,
+    57
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/metal/macro.png",
+   "color": "midnight",
+   "band": "metal",
+   "preset": "macro",
+   "coverage": 0.8307,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 23.7,
+   "max_lum": 255,
+   "bright_ratio": 0.0293,
+   "mean_rgb": [
+    62,
+    64,
+    66
+   ],
+   "hue": 210.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/metal/right.png",
+   "color": "midnight",
+   "band": "metal",
+   "preset": "right",
+   "coverage": 0.252,
+   "bbox": [
+    194,
+    98,
+    808,
+    803
+   ],
+   "touches_border": false,
+   "mean_lum": 22.8,
+   "max_lum": 254,
+   "bright_ratio": 0.004,
+   "mean_rgb": [
+    26,
+    28,
+    31
+   ],
+   "hue": 216.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/tpu/angle.png",
+   "color": "midnight",
+   "band": "tpu",
+   "preset": "angle",
+   "coverage": 0.2511,
+   "bbox": [
+    233,
+    110,
+    734,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 38.1,
+   "max_lum": 241,
+   "bright_ratio": 0.023,
+   "mean_rgb": [
+    84,
+    84,
+    85
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/tpu/back.png",
+   "color": "midnight",
+   "band": "tpu",
+   "preset": "back",
+   "coverage": 0.3098,
+   "bbox": [
+    262,
+    99,
+    812,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 44.5,
+   "max_lum": 220,
+   "bright_ratio": 0.0023,
+   "mean_rgb": [
+    103,
+    103,
+    105
+   ],
+   "hue": 240.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/midnight/tpu/front.png",
+   "color": "midnight",
+   "band": "tpu",
+   "preset": "front",
+   "coverage": 0.1674,
+   "bbox": [
+    232,
+    78,
+    667,
+    784
+   ],
+   "touches_border": false,
+   "mean_lum": 49.7,
+   "max_lum": 255,
+   "bright_ratio": 0.0604,
+   "mean_rgb": [
+    120,
+    122,
+    123
+   ],
+   "hue": 199.99999999999991,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/tpu/left.png",
+   "color": "midnight",
+   "band": "tpu",
+   "preset": "left",
+   "coverage": 0.2768,
+   "bbox": [
+    83,
+    98,
+    705,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 25.5,
+   "max_lum": 253,
+   "bright_ratio": 0.0043,
+   "mean_rgb": [
+    41,
+    42,
+    44
+   ],
+   "hue": 220.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/tpu/lug.png",
+   "color": "midnight",
+   "band": "tpu",
+   "preset": "lug",
+   "coverage": 0.5807,
+   "bbox": [
+    8,
+    88,
+    807,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 31.7,
+   "max_lum": 255,
+   "bright_ratio": 0.0372,
+   "mean_rgb": [
+    55,
+    56,
+    59
+   ],
+   "hue": 225.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/tpu/macro.png",
+   "color": "midnight",
+   "band": "tpu",
+   "preset": "macro",
+   "coverage": 0.8562,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 22.6,
+   "max_lum": 255,
+   "bright_ratio": 0.0255,
+   "mean_rgb": [
+    66,
+    68,
+    70
+   ],
+   "hue": 210.0000000000001,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/tpu/right.png",
+   "color": "midnight",
+   "band": "tpu",
+   "preset": "right",
+   "coverage": 0.2707,
+   "bbox": [
+    194,
+    99,
+    816,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 25.5,
+   "max_lum": 248,
+   "bright_ratio": 0.0026,
+   "mean_rgb": [
+    42,
+    43,
+    47
+   ],
+   "hue": 227.99999999999997,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/woven/angle.png",
+   "color": "midnight",
+   "band": "woven",
+   "preset": "angle",
+   "coverage": 0.2759,
+   "bbox": [
+    233,
+    107,
+    734,
+    756
+   ],
+   "touches_border": false,
+   "mean_lum": 35.5,
+   "max_lum": 241,
+   "bright_ratio": 0.0181,
+   "mean_rgb": [
+    82,
+    80,
+    78
+   ],
+   "hue": 29.999999999999893,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/woven/back.png",
+   "color": "midnight",
+   "band": "woven",
+   "preset": "back",
+   "coverage": 0.3543,
+   "bbox": [
+    262,
+    99,
+    813,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 37.8,
+   "max_lum": 185,
+   "bright_ratio": 0.0013,
+   "mean_rgb": [
+    72,
+    70,
+    69
+   ],
+   "hue": 20.00000000000019,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/midnight/woven/front.png",
+   "color": "midnight",
+   "band": "woven",
+   "preset": "front",
+   "coverage": 0.1708,
+   "bbox": [
+    232,
+    77,
+    667,
+    788
+   ],
+   "touches_border": false,
+   "mean_lum": 52.1,
+   "max_lum": 255,
+   "bright_ratio": 0.0596,
+   "mean_rgb": [
+    125,
+    126,
+    126
+   ],
+   "hue": 180.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/woven/left.png",
+   "color": "midnight",
+   "band": "woven",
+   "preset": "left",
+   "coverage": 0.2969,
+   "bbox": [
+    80,
+    95,
+    705,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 29.0,
+   "max_lum": 253,
+   "bright_ratio": 0.004,
+   "mean_rgb": [
+    57,
+    57,
+    58
+   ],
+   "hue": 240.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/woven/lug.png",
+   "color": "midnight",
+   "band": "woven",
+   "preset": "lug",
+   "coverage": 0.6267,
+   "bbox": [
+    8,
+    83,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 29.8,
+   "max_lum": 255,
+   "bright_ratio": 0.0203,
+   "mean_rgb": [
+    52,
+    51,
+    52
+   ],
+   "hue": 300.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/woven/macro.png",
+   "color": "midnight",
+   "band": "woven",
+   "preset": "macro",
+   "coverage": 0.8477,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 23.2,
+   "max_lum": 255,
+   "bright_ratio": 0.029,
+   "mean_rgb": [
+    63,
+    65,
+    67
+   ],
+   "hue": 210.0000000000001,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/midnight/woven/right.png",
+   "color": "midnight",
+   "band": "woven",
+   "preset": "right",
+   "coverage": 0.296,
+   "bbox": [
+    194,
+    95,
+    819,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 28.5,
+   "max_lum": 248,
+   "bright_ratio": 0.0022,
+   "mean_rgb": [
+    55,
+    57,
+    60
+   ],
+   "hue": 215.99999999999997,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/leather/angle.png",
+   "color": "pearl",
+   "band": "leather",
+   "preset": "angle",
+   "coverage": 0.2928,
+   "bbox": [
+    233,
+    108,
+    732,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 126.7,
+   "max_lum": 241,
+   "bright_ratio": 0.5333,
+   "mean_rgb": [
+    226,
+    226,
+    225
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/leather/back.png",
+   "color": "pearl",
+   "band": "leather",
+   "preset": "back",
+   "coverage": 0.3578,
+   "bbox": [
+    262,
+    99,
+    807,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 168.1,
+   "max_lum": 229,
+   "bright_ratio": 0.7189,
+   "mean_rgb": [
+    228,
+    227,
+    225
+   ],
+   "hue": 39.99999999999962,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/pearl/leather/front.png",
+   "color": "pearl",
+   "band": "leather",
+   "preset": "front",
+   "coverage": 0.171,
+   "bbox": [
+    232,
+    77,
+    667,
+    786
+   ],
+   "touches_border": false,
+   "mean_lum": 88.1,
+   "max_lum": 255,
+   "bright_ratio": 0.2546,
+   "mean_rgb": [
+    214,
+    212,
+    209
+   ],
+   "hue": 36.00000000000014,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/leather/left.png",
+   "color": "pearl",
+   "band": "leather",
+   "preset": "left",
+   "coverage": 0.3139,
+   "bbox": [
+    82,
+    96,
+    705,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 84.6,
+   "max_lum": 253,
+   "bright_ratio": 0.2687,
+   "mean_rgb": [
+    214,
+    214,
+    212
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/leather/lug.png",
+   "color": "pearl",
+   "band": "leather",
+   "preset": "lug",
+   "coverage": 0.6682,
+   "bbox": [
+    7,
+    85,
+    803,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 121.0,
+   "max_lum": 255,
+   "bright_ratio": 0.5189,
+   "mean_rgb": [
+    225,
+    225,
+    225
+   ],
+   "hue": null,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/leather/macro.png",
+   "color": "pearl",
+   "band": "leather",
+   "preset": "macro",
+   "coverage": 0.8691,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 48.1,
+   "max_lum": 255,
+   "bright_ratio": 0.1531,
+   "mean_rgb": [
+    163,
+    165,
+    165
+   ],
+   "hue": 180.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/leather/right.png",
+   "color": "pearl",
+   "band": "leather",
+   "preset": "right",
+   "coverage": 0.3035,
+   "bbox": [
+    194,
+    96,
+    817,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 89.0,
+   "max_lum": 254,
+   "bright_ratio": 0.3064,
+   "mean_rgb": [
+    216,
+    216,
+    215
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/mesh/angle.png",
+   "color": "pearl",
+   "band": "mesh",
+   "preset": "angle",
+   "coverage": 0.2884,
+   "bbox": [
+    233,
+    113,
+    731,
+    750
+   ],
+   "touches_border": false,
+   "mean_lum": 112.5,
+   "max_lum": 254,
+   "bright_ratio": 0.4737,
+   "mean_rgb": [
+    213,
+    212,
+    211
+   ],
+   "hue": 30.000000000000426,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/mesh/back.png",
+   "color": "pearl",
+   "band": "mesh",
+   "preset": "back",
+   "coverage": 0.3518,
+   "bbox": [
+    262,
+    100,
+    806,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 147.6,
+   "max_lum": 255,
+   "bright_ratio": 0.613,
+   "mean_rgb": [
+    227,
+    226,
+    224
+   ],
+   "hue": 40.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/pearl/mesh/front.png",
+   "color": "pearl",
+   "band": "mesh",
+   "preset": "front",
+   "coverage": 0.1691,
+   "bbox": [
+    232,
+    78,
+    667,
+    781
+   ],
+   "touches_border": false,
+   "mean_lum": 79.3,
+   "max_lum": 255,
+   "bright_ratio": 0.1755,
+   "mean_rgb": [
+    180,
+    180,
+    172
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/mesh/left.png",
+   "color": "pearl",
+   "band": "mesh",
+   "preset": "left",
+   "coverage": 0.299,
+   "bbox": [
+    87,
+    101,
+    705,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 72.1,
+   "max_lum": 253,
+   "bright_ratio": 0.2196,
+   "mean_rgb": [
+    183,
+    182,
+    179
+   ],
+   "hue": 45.00000000000011,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/mesh/lug.png",
+   "color": "pearl",
+   "band": "mesh",
+   "preset": "lug",
+   "coverage": 0.6614,
+   "bbox": [
+    7,
+    92,
+    802,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 105.2,
+   "max_lum": 255,
+   "bright_ratio": 0.4511,
+   "mean_rgb": [
+    202,
+    202,
+    201
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/mesh/macro.png",
+   "color": "pearl",
+   "band": "mesh",
+   "preset": "macro",
+   "coverage": 0.8693,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 42.5,
+   "max_lum": 255,
+   "bright_ratio": 0.0762,
+   "mean_rgb": [
+    119,
+    121,
+    123
+   ],
+   "hue": 210.0000000000001,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/mesh/right.png",
+   "color": "pearl",
+   "band": "mesh",
+   "preset": "right",
+   "coverage": 0.2885,
+   "bbox": [
+    194,
+    101,
+    812,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 74.0,
+   "max_lum": 255,
+   "bright_ratio": 0.2423,
+   "mean_rgb": [
+    178,
+    177,
+    174
+   ],
+   "hue": 45.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/metal/angle.png",
+   "color": "pearl",
+   "band": "metal",
+   "preset": "angle",
+   "coverage": 0.2661,
+   "bbox": [
+    233,
+    110,
+    727,
+    751
+   ],
+   "touches_border": false,
+   "mean_lum": 101.3,
+   "max_lum": 253,
+   "bright_ratio": 0.4075,
+   "mean_rgb": [
+    209,
+    209,
+    208
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/metal/back.png",
+   "color": "pearl",
+   "band": "metal",
+   "preset": "back",
+   "coverage": 0.2895,
+   "bbox": [
+    262,
+    136,
+    801,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 147.0,
+   "max_lum": 255,
+   "bright_ratio": 0.6119,
+   "mean_rgb": [
+    223,
+    222,
+    219
+   ],
+   "hue": 45.00000000000011,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/pearl/metal/front.png",
+   "color": "pearl",
+   "band": "metal",
+   "preset": "front",
+   "coverage": 0.1675,
+   "bbox": [
+    232,
+    87,
+    667,
+    787
+   ],
+   "touches_border": false,
+   "mean_lum": 82.8,
+   "max_lum": 255,
+   "bright_ratio": 0.2188,
+   "mean_rgb": [
+    208,
+    209,
+    203
+   ],
+   "hue": 69.99999999999996,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/metal/left.png",
+   "color": "pearl",
+   "band": "metal",
+   "preset": "left",
+   "coverage": 0.2864,
+   "bbox": [
+    91,
+    98,
+    705,
+    803
+   ],
+   "touches_border": false,
+   "mean_lum": 69.4,
+   "max_lum": 255,
+   "bright_ratio": 0.1901,
+   "mean_rgb": [
+    178,
+    178,
+    178
+   ],
+   "hue": null,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/metal/lug.png",
+   "color": "pearl",
+   "band": "metal",
+   "preset": "lug",
+   "coverage": 0.591,
+   "bbox": [
+    7,
+    86,
+    796,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 96.5,
+   "max_lum": 255,
+   "bright_ratio": 0.4055,
+   "mean_rgb": [
+    210,
+    210,
+    209
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/metal/macro.png",
+   "color": "pearl",
+   "band": "metal",
+   "preset": "macro",
+   "coverage": 0.85,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 37.9,
+   "max_lum": 255,
+   "bright_ratio": 0.0784,
+   "mean_rgb": [
+    106,
+    108,
+    111
+   ],
+   "hue": 216.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/metal/right.png",
+   "color": "pearl",
+   "band": "metal",
+   "preset": "right",
+   "coverage": 0.2755,
+   "bbox": [
+    194,
+    98,
+    808,
+    803
+   ],
+   "touches_border": false,
+   "mean_lum": 73.0,
+   "max_lum": 255,
+   "bright_ratio": 0.2224,
+   "mean_rgb": [
+    183,
+    182,
+    180
+   ],
+   "hue": 40.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/tpu/angle.png",
+   "color": "pearl",
+   "band": "tpu",
+   "preset": "angle",
+   "coverage": 0.2859,
+   "bbox": [
+    233,
+    109,
+    735,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 122.5,
+   "max_lum": 241,
+   "bright_ratio": 0.513,
+   "mean_rgb": [
+    225,
+    225,
+    224
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/tpu/back.png",
+   "color": "pearl",
+   "band": "tpu",
+   "preset": "back",
+   "coverage": 0.3446,
+   "bbox": [
+    262,
+    99,
+    812,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 163.0,
+   "max_lum": 235,
+   "bright_ratio": 0.6869,
+   "mean_rgb": [
+    228,
+    227,
+    225
+   ],
+   "hue": 39.99999999999962,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/pearl/tpu/front.png",
+   "color": "pearl",
+   "band": "tpu",
+   "preset": "front",
+   "coverage": 0.1726,
+   "bbox": [
+    232,
+    77,
+    667,
+    784
+   ],
+   "touches_border": false,
+   "mean_lum": 87.5,
+   "max_lum": 255,
+   "bright_ratio": 0.2513,
+   "mean_rgb": [
+    209,
+    210,
+    203
+   ],
+   "hue": 68.57142857142854,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/tpu/left.png",
+   "color": "pearl",
+   "band": "tpu",
+   "preset": "left",
+   "coverage": 0.3042,
+   "bbox": [
+    83,
+    98,
+    705,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 79.6,
+   "max_lum": 253,
+   "bright_ratio": 0.2397,
+   "mean_rgb": [
+    198,
+    198,
+    196
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/tpu/lug.png",
+   "color": "pearl",
+   "band": "tpu",
+   "preset": "lug",
+   "coverage": 0.6498,
+   "bbox": [
+    7,
+    87,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 118.6,
+   "max_lum": 255,
+   "bright_ratio": 0.5084,
+   "mean_rgb": [
+    225,
+    225,
+    224
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/tpu/macro.png",
+   "color": "pearl",
+   "band": "tpu",
+   "preset": "macro",
+   "coverage": 0.8692,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 48.1,
+   "max_lum": 255,
+   "bright_ratio": 0.1538,
+   "mean_rgb": [
+    169,
+    172,
+    171
+   ],
+   "hue": 159.99999999999963,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/tpu/right.png",
+   "color": "pearl",
+   "band": "tpu",
+   "preset": "right",
+   "coverage": 0.2938,
+   "bbox": [
+    194,
+    98,
+    816,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 83.3,
+   "max_lum": 254,
+   "bright_ratio": 0.2787,
+   "mean_rgb": [
+    202,
+    202,
+    201
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/woven/angle.png",
+   "color": "pearl",
+   "band": "woven",
+   "preset": "angle",
+   "coverage": 0.2988,
+   "bbox": [
+    233,
+    107,
+    736,
+    756
+   ],
+   "touches_border": false,
+   "mean_lum": 105.1,
+   "max_lum": 241,
+   "bright_ratio": 0.4486,
+   "mean_rgb": [
+    202,
+    190,
+    176
+   ],
+   "hue": 32.307692307692335,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/woven/back.png",
+   "color": "pearl",
+   "band": "woven",
+   "preset": "back",
+   "coverage": 0.3672,
+   "bbox": [
+    262,
+    100,
+    813,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 132.7,
+   "max_lum": 229,
+   "bright_ratio": 0.5677,
+   "mean_rgb": [
+    203,
+    189,
+    174
+   ],
+   "hue": 31.03448275862072,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/pearl/woven/front.png",
+   "color": "pearl",
+   "band": "woven",
+   "preset": "front",
+   "coverage": 0.1729,
+   "bbox": [
+    232,
+    80,
+    667,
+    788
+   ],
+   "touches_border": false,
+   "mean_lum": 80.1,
+   "max_lum": 255,
+   "bright_ratio": 0.1914,
+   "mean_rgb": [
+    204,
+    196,
+    183
+   ],
+   "hue": 37.14285714285716,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/woven/left.png",
+   "color": "pearl",
+   "band": "woven",
+   "preset": "left",
+   "coverage": 0.3155,
+   "bbox": [
+    80,
+    95,
+    705,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 71.2,
+   "max_lum": 253,
+   "bright_ratio": 0.212,
+   "mean_rgb": [
+    190,
+    177,
+    161
+   ],
+   "hue": 33.10344827586206,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/woven/lug.png",
+   "color": "pearl",
+   "band": "woven",
+   "preset": "lug",
+   "coverage": 0.6798,
+   "bbox": [
+    7,
+    83,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 99.2,
+   "max_lum": 255,
+   "bright_ratio": 0.4228,
+   "mean_rgb": [
+    202,
+    191,
+    178
+   ],
+   "hue": 32.50000000000002,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/woven/macro.png",
+   "color": "pearl",
+   "band": "woven",
+   "preset": "macro",
+   "coverage": 0.869,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 41.0,
+   "max_lum": 255,
+   "bright_ratio": 0.088,
+   "mean_rgb": [
+    115,
+    115,
+    113
+   ],
+   "hue": 60.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/pearl/woven/right.png",
+   "color": "pearl",
+   "band": "woven",
+   "preset": "right",
+   "coverage": 0.3043,
+   "bbox": [
+    194,
+    95,
+    819,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 74.9,
+   "max_lum": 254,
+   "bright_ratio": 0.2392,
+   "mean_rgb": [
+    192,
+    180,
+    166
+   ],
+   "hue": 32.307692307692335,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/leather/angle.png",
+   "color": "rose",
+   "band": "leather",
+   "preset": "angle",
+   "coverage": 0.293,
+   "bbox": [
+    233,
+    108,
+    732,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 118.9,
+   "max_lum": 241,
+   "bright_ratio": 0.4857,
+   "mean_rgb": [
+    226,
+    214,
+    216
+   ],
+   "hue": 350.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/leather/back.png",
+   "color": "rose",
+   "band": "leather",
+   "preset": "back",
+   "coverage": 0.3662,
+   "bbox": [
+    262,
+    99,
+    807,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 155.7,
+   "max_lum": 239,
+   "bright_ratio": 0.6667,
+   "mean_rgb": [
+    228,
+    216,
+    215
+   ],
+   "hue": 4.615384615384595,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/rose/leather/front.png",
+   "color": "rose",
+   "band": "leather",
+   "preset": "front",
+   "coverage": 0.1709,
+   "bbox": [
+    232,
+    77,
+    667,
+    786
+   ],
+   "touches_border": false,
+   "mean_lum": 83.1,
+   "max_lum": 255,
+   "bright_ratio": 0.2181,
+   "mean_rgb": [
+    198,
+    187,
+    176
+   ],
+   "hue": 29.99999999999996,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/leather/left.png",
+   "color": "rose",
+   "band": "leather",
+   "preset": "left",
+   "coverage": 0.3158,
+   "bbox": [
+    82,
+    96,
+    705,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 75.7,
+   "max_lum": 255,
+   "bright_ratio": 0.2202,
+   "mean_rgb": [
+    212,
+    198,
+    199
+   ],
+   "hue": 355.7142857142857,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/leather/lug.png",
+   "color": "rose",
+   "band": "leather",
+   "preset": "lug",
+   "coverage": 0.6673,
+   "bbox": [
+    7,
+    85,
+    803,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 113.1,
+   "max_lum": 255,
+   "bright_ratio": 0.4648,
+   "mean_rgb": [
+    225,
+    213,
+    215
+   ],
+   "hue": 350.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/leather/macro.png",
+   "color": "rose",
+   "band": "leather",
+   "preset": "macro",
+   "coverage": 0.8691,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 44.7,
+   "max_lum": 255,
+   "bright_ratio": 0.1284,
+   "mean_rgb": [
+    155,
+    137,
+    140
+   ],
+   "hue": 349.99999999999994,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/leather/right.png",
+   "color": "rose",
+   "band": "leather",
+   "preset": "right",
+   "coverage": 0.3136,
+   "bbox": [
+    194,
+    96,
+    817,
+    805
+   ],
+   "touches_border": false,
+   "mean_lum": 77.9,
+   "max_lum": 252,
+   "bright_ratio": 0.2309,
+   "mean_rgb": [
+    213,
+    199,
+    202
+   ],
+   "hue": 347.14285714285717,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/mesh/angle.png",
+   "color": "rose",
+   "band": "mesh",
+   "preset": "angle",
+   "coverage": 0.2886,
+   "bbox": [
+    233,
+    113,
+    731,
+    750
+   ],
+   "touches_border": false,
+   "mean_lum": 103.5,
+   "max_lum": 253,
+   "bright_ratio": 0.4179,
+   "mean_rgb": [
+    210,
+    194,
+    195
+   ],
+   "hue": 356.25,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/mesh/back.png",
+   "color": "rose",
+   "band": "mesh",
+   "preset": "back",
+   "coverage": 0.3589,
+   "bbox": [
+    262,
+    100,
+    806,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 134.7,
+   "max_lum": 255,
+   "bright_ratio": 0.5402,
+   "mean_rgb": [
+    227,
+    215,
+    215
+   ],
+   "hue": 0.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/rose/mesh/front.png",
+   "color": "rose",
+   "band": "mesh",
+   "preset": "front",
+   "coverage": 0.1691,
+   "bbox": [
+    232,
+    78,
+    667,
+    781
+   ],
+   "touches_border": false,
+   "mean_lum": 74.2,
+   "max_lum": 255,
+   "bright_ratio": 0.1555,
+   "mean_rgb": [
+    171,
+    153,
+    150
+   ],
+   "hue": 8.571428571428548,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/mesh/left.png",
+   "color": "rose",
+   "band": "mesh",
+   "preset": "left",
+   "coverage": 0.3008,
+   "bbox": [
+    87,
+    101,
+    705,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 63.1,
+   "max_lum": 255,
+   "bright_ratio": 0.1783,
+   "mean_rgb": [
+    181,
+    160,
+    161
+   ],
+   "hue": 357.14285714285717,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/mesh/lug.png",
+   "color": "rose",
+   "band": "mesh",
+   "preset": "lug",
+   "coverage": 0.6604,
+   "bbox": [
+    7,
+    92,
+    802,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 95.9,
+   "max_lum": 255,
+   "bright_ratio": 0.3896,
+   "mean_rgb": [
+    199,
+    180,
+    183
+   ],
+   "hue": 350.52631578947376,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/mesh/macro.png",
+   "color": "rose",
+   "band": "mesh",
+   "preset": "macro",
+   "coverage": 0.8693,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 39.1,
+   "max_lum": 255,
+   "bright_ratio": 0.061,
+   "mean_rgb": [
+    117,
+    109,
+    113
+   ],
+   "hue": 330.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/mesh/right.png",
+   "color": "rose",
+   "band": "mesh",
+   "preset": "right",
+   "coverage": 0.2984,
+   "bbox": [
+    194,
+    101,
+    812,
+    801
+   ],
+   "touches_border": false,
+   "mean_lum": 63.0,
+   "max_lum": 254,
+   "bright_ratio": 0.1737,
+   "mean_rgb": [
+    175,
+    152,
+    154
+   ],
+   "hue": 354.7826086956522,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/metal/angle.png",
+   "color": "rose",
+   "band": "metal",
+   "preset": "angle",
+   "coverage": 0.2662,
+   "bbox": [
+    233,
+    110,
+    727,
+    751
+   ],
+   "touches_border": false,
+   "mean_lum": 93.2,
+   "max_lum": 251,
+   "bright_ratio": 0.3539,
+   "mean_rgb": [
+    206,
+    189,
+    191
+   ],
+   "hue": 352.9411764705883,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/metal/back.png",
+   "color": "rose",
+   "band": "metal",
+   "preset": "back",
+   "coverage": 0.2992,
+   "bbox": [
+    262,
+    136,
+    801,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 133.2,
+   "max_lum": 255,
+   "bright_ratio": 0.5519,
+   "mean_rgb": [
+    221,
+    208,
+    208
+   ],
+   "hue": 0.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/rose/metal/front.png",
+   "color": "rose",
+   "band": "metal",
+   "preset": "front",
+   "coverage": 0.1674,
+   "bbox": [
+    232,
+    87,
+    667,
+    787
+   ],
+   "touches_border": false,
+   "mean_lum": 78.4,
+   "max_lum": 255,
+   "bright_ratio": 0.1992,
+   "mean_rgb": [
+    193,
+    178,
+    171
+   ],
+   "hue": 19.090909090909093,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/metal/left.png",
+   "color": "rose",
+   "band": "metal",
+   "preset": "left",
+   "coverage": 0.2879,
+   "bbox": [
+    91,
+    98,
+    705,
+    803
+   ],
+   "touches_border": false,
+   "mean_lum": 60.6,
+   "max_lum": 255,
+   "bright_ratio": 0.1461,
+   "mean_rgb": [
+    170,
+    150,
+    152
+   ],
+   "hue": 354.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/metal/lug.png",
+   "color": "rose",
+   "band": "metal",
+   "preset": "lug",
+   "coverage": 0.59,
+   "bbox": [
+    7,
+    86,
+    796,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 88.3,
+   "max_lum": 255,
+   "bright_ratio": 0.3427,
+   "mean_rgb": [
+    205,
+    189,
+    191
+   ],
+   "hue": 352.5,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/metal/macro.png",
+   "color": "rose",
+   "band": "metal",
+   "preset": "macro",
+   "coverage": 0.8499,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 35.2,
+   "max_lum": 255,
+   "bright_ratio": 0.0667,
+   "mean_rgb": [
+    107,
+    106,
+    108
+   ],
+   "hue": 270.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/metal/right.png",
+   "color": "rose",
+   "band": "metal",
+   "preset": "right",
+   "coverage": 0.2853,
+   "bbox": [
+    194,
+    98,
+    808,
+    802
+   ],
+   "touches_border": false,
+   "mean_lum": 62.1,
+   "max_lum": 255,
+   "bright_ratio": 0.1489,
+   "mean_rgb": [
+    170,
+    150,
+    152
+   ],
+   "hue": 354.0,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/tpu/angle.png",
+   "color": "rose",
+   "band": "tpu",
+   "preset": "angle",
+   "coverage": 0.286,
+   "bbox": [
+    233,
+    109,
+    735,
+    753
+   ],
+   "touches_border": false,
+   "mean_lum": 114.7,
+   "max_lum": 241,
+   "bright_ratio": 0.4656,
+   "mean_rgb": [
+    225,
+    213,
+    215
+   ],
+   "hue": 350.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/tpu/back.png",
+   "color": "rose",
+   "band": "tpu",
+   "preset": "back",
+   "coverage": 0.3519,
+   "bbox": [
+    262,
+    99,
+    812,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 150.9,
+   "max_lum": 233,
+   "bright_ratio": 0.6294,
+   "mean_rgb": [
+    228,
+    215,
+    215
+   ],
+   "hue": 0.0,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/rose/tpu/front.png",
+   "color": "rose",
+   "band": "tpu",
+   "preset": "front",
+   "coverage": 0.1724,
+   "bbox": [
+    232,
+    77,
+    667,
+    784
+   ],
+   "touches_border": false,
+   "mean_lum": 82.4,
+   "max_lum": 255,
+   "bright_ratio": 0.2169,
+   "mean_rgb": [
+    193,
+    179,
+    170
+   ],
+   "hue": 23.478260869565204,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/tpu/left.png",
+   "color": "rose",
+   "band": "tpu",
+   "preset": "left",
+   "coverage": 0.3061,
+   "bbox": [
+    83,
+    98,
+    705,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 70.6,
+   "max_lum": 255,
+   "bright_ratio": 0.186,
+   "mean_rgb": [
+    192,
+    175,
+    177
+   ],
+   "hue": 352.9411764705883,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/tpu/lug.png",
+   "color": "rose",
+   "band": "tpu",
+   "preset": "lug",
+   "coverage": 0.6489,
+   "bbox": [
+    7,
+    87,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 110.7,
+   "max_lum": 255,
+   "bright_ratio": 0.4569,
+   "mean_rgb": [
+    224,
+    212,
+    214
+   ],
+   "hue": 350.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/tpu/macro.png",
+   "color": "rose",
+   "band": "tpu",
+   "preset": "macro",
+   "coverage": 0.8692,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 44.6,
+   "max_lum": 255,
+   "bright_ratio": 0.1398,
+   "mean_rgb": [
+    162,
+    142,
+    146
+   ],
+   "hue": 348.00000000000006,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/tpu/right.png",
+   "color": "rose",
+   "band": "tpu",
+   "preset": "right",
+   "coverage": 0.3039,
+   "bbox": [
+    194,
+    98,
+    816,
+    804
+   ],
+   "touches_border": false,
+   "mean_lum": 72.3,
+   "max_lum": 252,
+   "bright_ratio": 0.1958,
+   "mean_rgb": [
+    196,
+    178,
+    180
+   ],
+   "hue": 353.33333333333326,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/woven/angle.png",
+   "color": "rose",
+   "band": "woven",
+   "preset": "angle",
+   "coverage": 0.2989,
+   "bbox": [
+    233,
+    107,
+    736,
+    756
+   ],
+   "touches_border": false,
+   "mean_lum": 95.8,
+   "max_lum": 241,
+   "bright_ratio": 0.3883,
+   "mean_rgb": [
+    201,
+    171,
+    160
+   ],
+   "hue": 16.097560975609742,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/woven/back.png",
+   "color": "rose",
+   "band": "woven",
+   "preset": "back",
+   "coverage": 0.3772,
+   "bbox": [
+    262,
+    100,
+    813,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 118.9,
+   "max_lum": 231,
+   "bright_ratio": 0.5076,
+   "mean_rgb": [
+    203,
+    171,
+    158
+   ],
+   "hue": 17.333333333333314,
+   "problems": [
+    "subject clipped by frame"
+   ]
+  },
+  {
+   "file": "snapshots/round-1/rose/woven/front.png",
+   "color": "rose",
+   "band": "woven",
+   "preset": "front",
+   "coverage": 0.1714,
+   "bbox": [
+    232,
+    77,
+    667,
+    788
+   ],
+   "touches_border": false,
+   "mean_lum": 75.8,
+   "max_lum": 255,
+   "bright_ratio": 0.1781,
+   "mean_rgb": [
+    195,
+    175,
+    161
+   ],
+   "hue": 24.705882352941195,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/woven/left.png",
+   "color": "rose",
+   "band": "woven",
+   "preset": "left",
+   "coverage": 0.3156,
+   "bbox": [
+    80,
+    95,
+    705,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 62.8,
+   "max_lum": 255,
+   "bright_ratio": 0.1722,
+   "mean_rgb": [
+    189,
+    155,
+    143
+   ],
+   "hue": 15.652173913043457,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/woven/lug.png",
+   "color": "rose",
+   "band": "woven",
+   "preset": "lug",
+   "coverage": 0.6788,
+   "bbox": [
+    7,
+    83,
+    810,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 89.9,
+   "max_lum": 255,
+   "bright_ratio": 0.354,
+   "mean_rgb": [
+    201,
+    170,
+    160
+   ],
+   "hue": 14.634146341463406,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/woven/macro.png",
+   "color": "rose",
+   "band": "woven",
+   "preset": "macro",
+   "coverage": 0.8688,
+   "bbox": [
+    0,
+    0,
+    899,
+    899
+   ],
+   "touches_border": true,
+   "mean_lum": 38.0,
+   "max_lum": 255,
+   "bright_ratio": 0.0706,
+   "mean_rgb": [
+    114,
+    109,
+    107
+   ],
+   "hue": 17.14285714285707,
+   "problems": []
+  },
+  {
+   "file": "snapshots/round-1/rose/woven/right.png",
+   "color": "rose",
+   "band": "woven",
+   "preset": "right",
+   "coverage": 0.3147,
+   "bbox": [
+    194,
+    95,
+    819,
+    807
+   ],
+   "touches_border": false,
+   "mean_lum": 64.3,
+   "max_lum": 252,
+   "bright_ratio": 0.172,
+   "mean_rgb": [
+    189,
+    156,
+    147
+   ],
+   "hue": 12.857142857142886,
+   "problems": []
+  }
+ ]
+}

@@ -1,0 +1,1233 @@
+{
+  "round": "2",
+  "startedAt": "2026-10-18T11:31:29.320Z",
+  "shots": [
+    {
+      "color": "midnight",
+      "band": "tpu",
+      "preset": "front",
+      "file": "snapshots/round-2/midnight/tpu/front.png",
+      "bytes": 133060
+    },
+    {
+      "color": "midnight",
+      "band": "tpu",
+      "preset": "back",
+      "file": "snapshots/round-2/midnight/tpu/back.png",
+      "bytes": 188413
+    },
+    {
+      "color": "midnight",
+      "band": "tpu",
+      "preset": "left",
+      "file": "snapshots/round-2/midnight/tpu/left.png",
+      "bytes": 167480
+    },
+    {
+      "color": "midnight",
+      "band": "tpu",
+      "preset": "right",
+      "file": "snapshots/round-2/midnight/tpu/right.png",
+      "bytes": 166215
+    },
+    {
+      "color": "midnight",
+      "band": "tpu",
+      "preset": "angle",
+      "file": "snapshots/round-2/midnight/tpu/angle.png",
+      "bytes": 215550
+    },
+    {
+      "color": "midnight",
+      "band": "tpu",
+      "preset": "macro",
+      "file": "snapshots/round-2/midnight/tpu/macro.png",
+      "bytes": 189050
+    },
+    {
+      "color": "midnight",
+      "band": "tpu",
+      "preset": "lug",
+      "file": "snapshots/round-2/midnight/tpu/lug.png",
+      "bytes": 329240
+    },
+    {
+      "color": "midnight",
+      "band": "leather",
+      "preset": "front",
+      "file": "snapshots/round-2/midnight/leather/front.png",
+      "bytes": 139400
+    },
+    {
+      "color": "midnight",
+      "band": "leather",
+      "preset": "back",
+      "file": "snapshots/round-2/midnight/leather/back.png",
+      "bytes": 220489
+    },
+    {
+      "color": "midnight",
+      "band": "leather",
+      "preset": "left",
+      "file": "snapshots/round-2/midnight/leather/left.png",
+      "bytes": 180175
+    },
+    {
+      "color": "midnight",
+      "band": "leather",
+      "preset": "right",
+      "file": "snapshots/round-2/midnight/leather/right.png",
+      "bytes": 178623
+    },
+    {
+      "color": "midnight",
+      "band": "leather",
+      "preset": "angle",
+      "file": "snapshots/round-2/midnight/leather/angle.png",
+      "bytes": 239009
+    },
+    {
+      "color": "midnight",
+      "band": "leather",
+      "preset": "macro",
+      "file": "snapshots/round-2/midnight/leather/macro.png",
+      "bytes": 215793
+    },
+    {
+      "color": "midnight",
+      "band": "leather",
+      "preset": "lug",
+      "file": "snapshots/round-2/midnight/leather/lug.png",
+      "bytes": 394023
+    },
+    {
+      "color": "midnight",
+      "band": "woven",
+      "preset": "front",
+      "file": "snapshots/round-2/midnight/woven/front.png",
+      "bytes": 136194
+    },
+    {
+      "color": "midnight",
+      "band": "woven",
+      "preset": "back",
+      "file": "snapshots/round-2/midnight/woven/back.png",
+      "bytes": 195087
+    },
+    {
+      "color": "midnight",
+      "band": "woven",
+      "preset": "left",
+      "file": "snapshots/round-2/midnight/woven/left.png",
+      "bytes": 183746
+    },
+    {
+      "color": "midnight",
+      "band": "woven",
+      "preset": "right",
+      "file": "snapshots/round-2/midnight/woven/right.png",
+      "bytes": 182157
+    },
+    {
+      "color": "midnight",
+      "band": "woven",
+      "preset": "angle",
+      "file": "snapshots/round-2/midnight/woven/angle.png",
+      "bytes": 223299
+    },
+    {
+      "color": "midnight",
+      "band": "woven",
+      "preset": "macro",
+      "file": "snapshots/round-2/midnight/woven/macro.png",
+      "bytes": 194688
+    },
+    {
+      "color": "midnight",
+      "band": "woven",
+      "preset": "lug",
+      "file": "snapshots/round-2/midnight/woven/lug.png",
+      "bytes": 338973
+    },
+    {
+      "color": "midnight",
+      "band": "metal",
+      "preset": "front",
+      "file": "snapshots/round-2/midnight/metal/front.png",
+      "bytes": 135859
+    },
+    {
+      "color": "midnight",
+      "band": "metal",
+      "preset": "back",
+      "file": "snapshots/round-2/midnight/metal/back.png",
+      "bytes": 162929
+    },
+    {
+      "color": "midnight",
+      "band": "metal",
+      "preset": "left",
+      "file": "snapshots/round-2/midnight/metal/left.png",
+      "bytes": 161026
+    },
+    {
+      "color": "midnight",
+      "band": "metal",
+      "preset": "right",
+      "file": "snapshots/round-2/midnight/metal/right.png",
+      "bytes": 157683
+    },
+    {
+      "color": "midnight",
+      "band": "metal",
+      "preset": "angle",
+      "file": "snapshots/round-2/midnight/metal/angle.png",
+      "bytes": 199967
+    },
+    {
+      "color": "midnight",
+      "band": "metal",
+      "preset": "macro",
+      "file": "snapshots/round-2/midnight/metal/macro.png",
+      "bytes": 197469
+    },
+    {
+      "color": "midnight",
+      "band": "metal",
+      "preset": "lug",
+      "file": "snapshots/round-2/midnight/metal/lug.png",
+      "bytes": 274514
+    },
+    {
+      "color": "midnight",
+      "band": "mesh",
+      "preset": "front",
+      "file": "snapshots/round-2/midnight/mesh/front.png",
+      "bytes": 133286
+    },
+    {
+      "color": "midnight",
+      "band": "mesh",
+      "preset": "back",
+      "file": "snapshots/round-2/midnight/mesh/back.png",
+      "bytes": 209595
+    },
+    {
+      "color": "midnight",
+      "band": "mesh",
+      "preset": "left",
+      "file": "snapshots/round-2/midnight/mesh/left.png",
+      "bytes": 185498
+    },
+    {
+      "color": "midnight",
+      "band": "mesh",
+      "preset": "right",
+      "file": "snapshots/round-2/midnight/mesh/right.png",
+      "bytes": 163060
+    },
+    {
+      "color": "midnight",
+      "band": "mesh",
+      "preset": "angle",
+      "file": "snapshots/round-2/midnight/mesh/angle.png",
+      "bytes": 237429
+    },
+    {
+      "color": "midnight",
+      "band": "mesh",
+      "preset": "macro",
+      "file": "snapshots/round-2/midnight/mesh/macro.png",
+      "bytes": 196737
+    },
+    {
+      "color": "midnight",
+      "band": "mesh",
+      "preset": "lug",
+      "file": "snapshots/round-2/midnight/mesh/lug.png",
+      "bytes": 383216
+    },
+    {
+      "color": "glacier",
+      "band": "tpu",
+      "preset": "front",
+      "file": "snapshots/round-2/glacier/tpu/front.png",
+      "bytes": 141249
+    },
+    {
+      "color": "glacier",
+      "band": "tpu",
+      "preset": "back",
+      "file": "snapshots/round-2/glacier/tpu/back.png",
+      "bytes": 165720
+    },
+    {
+      "color": "glacier",
+      "band": "tpu",
+      "preset": "left",
+      "file": "snapshots/round-2/glacier/tpu/left.png",
+      "bytes": 177931
+    },
+    {
+      "color": "glacier",
+      "band": "tpu",
+      "preset": "right",
+      "file": "snapshots/round-2/glacier/tpu/right.png",
+      "bytes": 176395
+    },
+    {
+      "color": "glacier",
+      "band": "tpu",
+      "preset": "angle",
+      "file": "snapshots/round-2/glacier/tpu/angle.png",
+      "bytes": 200725
+    },
+    {
+      "color": "glacier",
+      "band": "tpu",
+      "preset": "macro",
+      "file": "snapshots/round-2/glacier/tpu/macro.png",
+      "bytes": 221432
+    },
+    {
+      "color": "glacier",
+      "band": "tpu",
+      "preset": "lug",
+      "file": "snapshots/round-2/glacier/tpu/lug.png",
+      "bytes": 311495
+    },
+    {
+      "color": "glacier",
+      "band": "leather",
+      "preset": "front",
+      "file": "snapshots/round-2/glacier/leather/front.png",
+      "bytes": 149255
+    },
+    {
+      "color": "glacier",
+      "band": "leather",
+      "preset": "back",
+      "file": "snapshots/round-2/glacier/leather/back.png",
+      "bytes": 196113
+    },
+    {
+      "color": "glacier",
+      "band": "leather",
+      "preset": "left",
+      "file": "snapshots/round-2/glacier/leather/left.png",
+      "bytes": 185107
+    },
+    {
+      "color": "glacier",
+      "band": "leather",
+      "preset": "right",
+      "file": "snapshots/round-2/glacier/leather/right.png",
+      "bytes": 187157
+    },
+    {
+      "color": "glacier",
+      "band": "leather",
+      "preset": "angle",
+      "file": "snapshots/round-2/glacier/leather/angle.png",
+      "bytes": 223199
+    },
+    {
+      "color": "glacier",
+      "band": "leather",
+      "preset": "macro",
+      "file": "snapshots/round-2/glacier/leather/macro.png",
+      "bytes": 263650
+    },
+    {
+      "color": "glacier",
+      "band": "leather",
+      "preset": "lug",
+      "file": "snapshots/round-2/glacier/leather/lug.png",
+      "bytes": 371938
+    },
+    {
+      "color": "glacier",
+      "band": "woven",
+      "preset": "front",
+      "file": "snapshots/round-2/glacier/woven/front.png",
+      "bytes": 153357
+    },
+    {
+      "color": "glacier",
+      "band": "woven",
+      "preset": "back",
+      "file": "snapshots/round-2/glacier/woven/back.png",
+      "bytes": 236187
+    },
+    {
+      "color": "glacier",
+      "band": "woven",
+      "preset": "left",
+      "file": "snapshots/round-2/glacier/woven/left.png",
+      "bytes": 214421
+    },
+    {
+      "color": "glacier",
+      "band": "woven",
+      "preset": "right",
+      "file": "snapshots/round-2/glacier/woven/right.png",
+      "bytes": 215174
+    },
+    {
+      "color": "glacier",
+      "band": "woven",
+      "preset": "angle",
+      "file": "snapshots/round-2/glacier/woven/angle.png",
+      "bytes": 272722
+    },
+    {
+      "color": "glacier",
+      "band": "woven",
+      "preset": "macro",
+      "file": "snapshots/round-2/glacier/woven/macro.png",
+      "bytes": 242180
+    },
+    {
+      "color": "glacier",
+      "band": "woven",
+      "preset": "lug",
+      "file": "snapshots/round-2/glacier/woven/lug.png",
+      "bytes": 434722
+    },
+    {
+      "color": "glacier",
+      "band": "metal",
+      "preset": "front",
+      "file": "snapshots/round-2/glacier/metal/front.png",
+      "bytes": 141495
+    },
+    {
+      "color": "glacier",
+      "band": "metal",
+      "preset": "back",
+      "file": "snapshots/round-2/glacier/metal/back.png",
+      "bytes": 172099
+    },
+    {
+      "color": "glacier",
+      "band": "metal",
+      "preset": "left",
+      "file": "snapshots/round-2/glacier/metal/left.png",
+      "bytes": 185897
+    },
+    {
+      "color": "glacier",
+      "band": "metal",
+      "preset": "right",
+      "file": "snapshots/round-2/glacier/metal/right.png",
+      "bytes": 182353
+    },
+    {
+      "color": "glacier",
+      "band": "metal",
+      "preset": "angle",
+      "file": "snapshots/round-2/glacier/metal/angle.png",
+      "bytes": 219178
+    },
+    {
+      "color": "glacier",
+      "band": "metal",
+      "preset": "macro",
+      "file": "snapshots/round-2/glacier/metal/macro.png",
+      "bytes": 213032
+    },
+    {
+      "color": "glacier",
+      "band": "metal",
+      "preset": "lug",
+      "file": "snapshots/round-2/glacier/metal/lug.png",
+      "bytes": 302452
+    },
+    {
+      "color": "glacier",
+      "band": "mesh",
+      "preset": "front",
+      "file": "snapshots/round-2/glacier/mesh/front.png",
+      "bytes": 149815
+    },
+    {
+      "color": "glacier",
+      "band": "mesh",
+      "preset": "back",
+      "file": "snapshots/round-2/glacier/mesh/back.png",
+      "bytes": 236425
+    },
+    {
+      "color": "glacier",
+      "band": "mesh",
+      "preset": "left",
+      "file": "snapshots/round-2/glacier/mesh/left.png",
+      "bytes": 196137
+    },
+    {
+      "color": "glacier",
+      "band": "mesh",
+      "preset": "right",
+      "file": "snapshots/round-2/glacier/mesh/right.png",
+      "bytes": 193210
+    },
+    {
+      "color": "glacier",
+      "band": "mesh",
+      "preset": "angle",
+      "file": "snapshots/round-2/glacier/mesh/angle.png",
+      "bytes": 266800
+    },
+    {
+      "color": "glacier",
+      "band": "mesh",
+      "preset": "macro",
+      "file": "snapshots/round-2/glacier/mesh/macro.png",
+      "bytes": 249378
+    },
+    {
+      "color": "glacier",
+      "band": "mesh",
+      "preset": "lug",
+      "file": "snapshots/round-2/glacier/mesh/lug.png",
+      "bytes": 447184
+    },
+    {
+      "color": "rose",
+      "band": "tpu",
+      "preset": "front",
+      "file": "snapshots/round-2/rose/tpu/front.png",
+      "bytes": 143228
+    },
+    {
+      "color": "rose",
+      "band": "tpu",
+      "preset": "back",
+      "file": "snapshots/round-2/rose/tpu/back.png",
+      "bytes": 173599
+    },
+    {
+      "color": "rose",
+      "band": "tpu",
+      "preset": "left",
+      "file": "snapshots/round-2/rose/tpu/left.png",
+      "bytes": 182703
+    },
+    {
+      "color": "rose",
+      "band": "tpu",
+      "preset": "right",
+      "file": "snapshots/round-2/rose/tpu/right.png",
+      "bytes": 182306
+    },
+    {
+      "color": "rose",
+      "band": "tpu",
+      "preset": "angle",
+      "file": "snapshots/round-2/rose/tpu/angle.png",
+      "bytes": 211497
+    },
+    {
+      "color": "rose",
+      "band": "tpu",
+      "preset": "macro",
+      "file": "snapshots/round-2/rose/tpu/macro.png",
+      "bytes": 228047
+    },
+    {
+      "color": "rose",
+      "band": "tpu",
+      "preset": "lug",
+      "file": "snapshots/round-2/rose/tpu/lug.png",
+      "bytes": 331904
+    },
+    {
+      "color": "rose",
+      "band": "leather",
+      "preset": "front",
+      "file": "snapshots/round-2/rose/leather/front.png",
+      "bytes": 151126
+    },
+    {
+      "color": "rose",
+      "band": "leather",
+      "preset": "back",
+      "file": "snapshots/round-2/rose/leather/back.png",
+      "bytes": 204668
+    },
+    {
+      "color": "rose",
+      "band": "leather",
+      "preset": "left",
+      "file": "snapshots/round-2/rose/leather/left.png",
+      "bytes": 190314
+    },
+    {
+      "color": "rose",
+      "band": "leather",
+      "preset": "right",
+      "file": "snapshots/round-2/rose/leather/right.png",
+      "bytes": 192682
+    },
+    {
+      "color": "rose",
+      "band": "leather",
+      "preset": "angle",
+      "file": "snapshots/round-2/rose/leather/angle.png",
+      "bytes": 232587
+    },
+    {
+      "color": "rose",
+      "band": "leather",
+      "preset": "macro",
+      "file": "snapshots/round-2/rose/leather/macro.png",
+      "bytes": 270203
+    },
+    {
+      "color": "rose",
+      "band": "leather",
+      "preset": "lug",
+      "file": "snapshots/round-2/rose/leather/lug.png",
+      "bytes": 390793
+    },
+    {
+      "color": "rose",
+      "band": "woven",
+      "preset": "front",
+      "file": "snapshots/round-2/rose/woven/front.png",
+      "bytes": 154381
+    },
+    {
+      "color": "rose",
+      "band": "woven",
+      "preset": "back",
+      "file": "snapshots/round-2/rose/woven/back.png",
+      "bytes": 240119
+    },
+    {
+      "color": "rose",
+      "band": "woven",
+      "preset": "left",
+      "file": "snapshots/round-2/rose/woven/left.png",
+      "bytes": 217721
+    },
+    {
+      "color": "rose",
+      "band": "woven",
+      "preset": "right",
+      "file": "snapshots/round-2/rose/woven/right.png",
+      "bytes": 218878
+    },
+    {
+      "color": "rose",
+      "band": "woven",
+      "preset": "angle",
+      "file": "snapshots/round-2/rose/woven/angle.png",
+      "bytes": 277475
+    },
+    {
+      "color": "rose",
+      "band": "woven",
+      "preset": "macro",
+      "file": "snapshots/round-2/rose/woven/macro.png",
+      "bytes": 244629
+    },
+    {
+      "color": "rose",
+      "band": "woven",
+      "preset": "lug",
+      "file": "snapshots/round-2/rose/woven/lug.png",
+      "bytes": 442845
+    },
+    {
+      "color": "rose",
+      "band": "metal",
+      "preset": "front",
+      "file": "snapshots/round-2/rose/metal/front.png",
+      "bytes": 143339
+    },
+    {
+      "color": "rose",
+      "band": "metal",
+      "preset": "back",
+      "file": "snapshots/round-2/rose/metal/back.png",
+      "bytes": 181230
+    },
+    {
+      "color": "rose",
+      "band": "metal",
+      "preset": "left",
+      "file": "snapshots/round-2/rose/metal/left.png",
+      "bytes": 188433
+    },
+    {
+      "color": "rose",
+      "band": "metal",
+      "preset": "right",
+      "file": "snapshots/round-2/rose/metal/right.png",
+      "bytes": 187031
+    },
+    {
+      "color": "rose",
+      "band": "metal",
+      "preset": "angle",
+      "file": "snapshots/round-2/rose/metal/angle.png",
+      "bytes": 227979
+    },
+    {
+      "color": "rose",
+      "band": "metal",
+      "preset": "macro",
+      "file": "snapshots/round-2/rose/metal/macro.png",
+      "bytes": 217832
+    },
+    {
+      "color": "rose",
+      "band": "metal",
+      "preset": "lug",
+      "file": "snapshots/round-2/rose/metal/lug.png",
+      "bytes": 314331
+    },
+    {
+      "color": "rose",
+      "band": "mesh",
+      "preset": "front",
+      "file": "snapshots/round-2/rose/mesh/front.png",
+      "bytes": 151278
+    },
+    {
+      "color": "rose",
+      "band": "mesh",
+      "preset": "back",
+      "file": "snapshots/round-2/rose/mesh/back.png",
+      "bytes": 248401
+    },
+    {
+      "color": "rose",
+      "band": "mesh",
+      "preset": "left",
+      "file": "snapshots/round-2/rose/mesh/left.png",
+      "bytes": 199805
+    },
+    {
+      "color": "rose",
+      "band": "mesh",
+      "preset": "right",
+      "file": "snapshots/round-2/rose/mesh/right.png",
+      "bytes": 197826
+    },
+    {
+      "color": "rose",
+      "band": "mesh",
+      "preset": "angle",
+      "file": "snapshots/round-2/rose/mesh/angle.png",
+      "bytes": 277441
+    },
+    {
+      "color": "rose",
+      "band": "mesh",
+      "preset": "macro",
+      "file": "snapshots/round-2/rose/mesh/macro.png",
+      "bytes": 253357
+    },
+    {
+      "color": "rose",
+      "band": "mesh",
+      "preset": "lug",
+      "file": "snapshots/round-2/rose/mesh/lug.png",
+      "bytes": 466055
+    },
+    {
+      "color": "pearl",
+      "band": "tpu",
+      "preset": "front",
+      "file": "snapshots/round-2/pearl/tpu/front.png",
+      "bytes": 137247
+    },
+    {
+      "color": "pearl",
+      "band": "tpu",
+      "preset": "back",
+      "file": "snapshots/round-2/pearl/tpu/back.png",
+      "bytes": 166829
+    },
+    {
+      "color": "pearl",
+      "band": "tpu",
+      "preset": "left",
+      "file": "snapshots/round-2/pearl/tpu/left.png",
+      "bytes": 177226
+    },
+    {
+      "color": "pearl",
+      "band": "tpu",
+      "preset": "right",
+      "file": "snapshots/round-2/pearl/tpu/right.png",
+      "bytes": 176266
+    },
+    {
+      "color": "pearl",
+      "band": "tpu",
+      "preset": "angle",
+      "file": "snapshots/round-2/pearl/tpu/angle.png",
+      "bytes": 198899
+    },
+    {
+      "color": "pearl",
+      "band": "tpu",
+      "preset": "macro",
+      "file": "snapshots/round-2/pearl/tpu/macro.png",
+      "bytes": 207568
+    },
+    {
+      "color": "pearl",
+      "band": "tpu",
+      "preset": "lug",
+      "file": "snapshots/round-2/pearl/tpu/lug.png",
+      "bytes": 305334
+    },
+    {
+      "color": "pearl",
+      "band": "leather",
+      "preset": "front",
+      "file": "snapshots/round-2/pearl/leather/front.png",
+      "bytes": 144851
+    },
+    {
+      "color": "pearl",
+      "band": "leather",
+      "preset": "back",
+      "file": "snapshots/round-2/pearl/leather/back.png",
+      "bytes": 196925
+    },
+    {
+      "color": "pearl",
+      "band": "leather",
+      "preset": "left",
+      "file": "snapshots/round-2/pearl/leather/left.png",
+      "bytes": 185412
+    },
+    {
+      "color": "pearl",
+      "band": "leather",
+      "preset": "right",
+      "file": "snapshots/round-2/pearl/leather/right.png",
+      "bytes": 187041
+    },
+    {
+      "color": "pearl",
+      "band": "leather",
+      "preset": "angle",
+      "file": "snapshots/round-2/pearl/leather/angle.png",
+      "bytes": 221014
+    },
+    {
+      "color": "pearl",
+      "band": "leather",
+      "preset": "macro",
+      "file": "snapshots/round-2/pearl/leather/macro.png",
+      "bytes": 250736
+    },
+    {
+      "color": "pearl",
+      "band": "leather",
+      "preset": "lug",
+      "file": "snapshots/round-2/pearl/leather/lug.png",
+      "bytes": 365266
+    },
+    {
+      "color": "pearl",
+      "band": "woven",
+      "preset": "front",
+      "file": "snapshots/round-2/pearl/woven/front.png",
+      "bytes": 149174
+    },
+    {
+      "color": "pearl",
+      "band": "woven",
+      "preset": "back",
+      "file": "snapshots/round-2/pearl/woven/back.png",
+      "bytes": 236194
+    },
+    {
+      "color": "pearl",
+      "band": "woven",
+      "preset": "left",
+      "file": "snapshots/round-2/pearl/woven/left.png",
+      "bytes": 214800
+    },
+    {
+      "color": "pearl",
+      "band": "woven",
+      "preset": "right",
+      "file": "snapshots/round-2/pearl/woven/right.png",
+      "bytes": 215475
+    },
+    {
+      "color": "pearl",
+      "band": "woven",
+      "preset": "angle",
+      "file": "snapshots/round-2/pearl/woven/angle.png",
+      "bytes": 271159
+    },
+    {
+      "color": "pearl",
+      "band": "woven",
+      "preset": "macro",
+      "file": "snapshots/round-2/pearl/woven/macro.png",
+      "bytes": 227555
+    },
+    {
+      "color": "pearl",
+      "band": "woven",
+      "preset": "lug",
+      "file": "snapshots/round-2/pearl/woven/lug.png",
+      "bytes": 429261
+    },
+    {
+      "color": "pearl",
+      "band": "metal",
+      "preset": "front",
+      "file": "snapshots/round-2/pearl/metal/front.png",
+      "bytes": 137144
+    },
+    {
+      "color": "pearl",
+      "band": "metal",
+      "preset": "back",
+      "file": "snapshots/round-2/pearl/metal/back.png",
+      "bytes": 174320
+    },
+    {
+      "color": "pearl",
+      "band": "metal",
+      "preset": "left",
+      "file": "snapshots/round-2/pearl/metal/left.png",
+      "bytes": 185357
+    },
+    {
+      "color": "pearl",
+      "band": "metal",
+      "preset": "right",
+      "file": "snapshots/round-2/pearl/metal/right.png",
+      "bytes": 182147
+    },
+    {
+      "color": "pearl",
+      "band": "metal",
+      "preset": "angle",
+      "file": "snapshots/round-2/pearl/metal/angle.png",
+      "bytes": 215534
+    },
+    {
+      "color": "pearl",
+      "band": "metal",
+      "preset": "macro",
+      "file": "snapshots/round-2/pearl/metal/macro.png",
+      "bytes": 198814
+    },
+    {
+      "color": "pearl",
+      "band": "metal",
+      "preset": "lug",
+      "file": "snapshots/round-2/pearl/metal/lug.png",
+      "bytes": 291694
+    },
+    {
+      "color": "pearl",
+      "band": "mesh",
+      "preset": "front",
+      "file": "snapshots/round-2/pearl/mesh/front.png",
+      "bytes": 145109
+    },
+    {
+      "color": "pearl",
+      "band": "mesh",
+      "preset": "back",
+      "file": "snapshots/round-2/pearl/mesh/back.png",
+      "bytes": 238847
+    },
+    {
+      "color": "pearl",
+      "band": "mesh",
+      "preset": "left",
+      "file": "snapshots/round-2/pearl/mesh/left.png",
+      "bytes": 196199
+    },
+    {
+      "color": "pearl",
+      "band": "mesh",
+      "preset": "right",
+      "file": "snapshots/round-2/pearl/mesh/right.png",
+      "bytes": 194116
+    },
+    {
+      "color": "pearl",
+      "band": "mesh",
+      "preset": "angle",
+      "file": "snapshots/round-2/pearl/mesh/angle.png",
+      "bytes": 265355
+    },
+    {
+      "color": "pearl",
+      "band": "mesh",
+      "preset": "macro",
+      "file": "snapshots/round-2/pearl/mesh/macro.png",
+      "bytes": 236799
+    },
+    {
+      "color": "pearl",
+      "band": "mesh",
+      "preset": "lug",
+      "file": "snapshots/round-2/pearl/mesh/lug.png",
+      "bytes": 440206
+    },
+    {
+      "color": "glimmer",
+      "band": "tpu",
+      "preset": "front",
+      "file": "snapshots/round-2/glimmer/tpu/front.png",
+      "bytes": 145070
+    },
+    {
+      "color": "glimmer",
+      "band": "tpu",
+      "preset": "back",
+      "file": "snapshots/round-2/glimmer/tpu/back.png",
+      "bytes": 188933
+    },
+    {
+      "color": "glimmer",
+      "band": "tpu",
+      "preset": "left",
+      "file": "snapshots/round-2/glimmer/tpu/left.png",
+      "bytes": 187545
+    },
+    {
+      "color": "glimmer",
+      "band": "tpu",
+      "preset": "right",
+      "file": "snapshots/round-2/glimmer/tpu/right.png",
+      "bytes": 190305
+    },
+    {
+      "color": "glimmer",
+      "band": "tpu",
+      "preset": "angle",
+      "file": "snapshots/round-2/glimmer/tpu/angle.png",
+      "bytes": 229851
+    },
+    {
+      "color": "glimmer",
+      "band": "tpu",
+      "preset": "macro",
+      "file": "snapshots/round-2/glimmer/tpu/macro.png",
+      "bytes": 231416
+    },
+    {
+      "color": "glimmer",
+      "band": "tpu",
+      "preset": "lug",
+      "file": "snapshots/round-2/glimmer/tpu/lug.png",
+      "bytes": 360641
+    },
+    {
+      "color": "glimmer",
+      "band": "leather",
+      "preset": "front",
+      "file": "snapshots/round-2/glimmer/leather/front.png",
+      "bytes": 152929
+    },
+    {
+      "color": "glimmer",
+      "band": "leather",
+      "preset": "back",
+      "file": "snapshots/round-2/glimmer/leather/back.png",
+      "bytes": 223550
+    },
+    {
+      "color": "glimmer",
+      "band": "leather",
+      "preset": "left",
+      "file": "snapshots/round-2/glimmer/leather/left.png",
+      "bytes": 197566
+    },
+    {
+      "color": "glimmer",
+      "band": "leather",
+      "preset": "right",
+      "file": "snapshots/round-2/glimmer/leather/right.png",
+      "bytes": 200311
+    },
+    {
+      "color": "glimmer",
+      "band": "leather",
+      "preset": "angle",
+      "file": "snapshots/round-2/glimmer/leather/angle.png",
+      "bytes": 251512
+    },
+    {
+      "color": "glimmer",
+      "band": "leather",
+      "preset": "macro",
+      "file": "snapshots/round-2/glimmer/leather/macro.png",
+      "bytes": 275030
+    },
+    {
+      "color": "glimmer",
+      "band": "leather",
+      "preset": "lug",
+      "file": "snapshots/round-2/glimmer/leather/lug.png",
+      "bytes": 426181
+    },
+    {
+      "color": "glimmer",
+      "band": "woven",
+      "preset": "front",
+      "file": "snapshots/round-2/glimmer/woven/front.png",
+      "bytes": 154540
+    },
+    {
+      "color": "glimmer",
+      "band": "woven",
+      "preset": "back",
+      "file": "snapshots/round-2/glimmer/woven/back.png",
+      "bytes": 243840
+    },
+    {
+      "color": "glimmer",
+      "band": "woven",
+      "preset": "left",
+      "file": "snapshots/round-2/glimmer/woven/left.png",
+      "bytes": 221144
+    },
+    {
+      "color": "glimmer",
+      "band": "woven",
+      "preset": "right",
+      "file": "snapshots/round-2/glimmer/woven/right.png",
+      "bytes": 221998
+    },
+    {
+      "color": "glimmer",
+      "band": "woven",
+      "preset": "angle",
+      "file": "snapshots/round-2/glimmer/woven/angle.png",
+      "bytes": 283339
+    },
+    {
+      "color": "glimmer",
+      "band": "woven",
+      "preset": "macro",
+      "file": "snapshots/round-2/glimmer/woven/macro.png",
+      "bytes": 243402
+    },
+    {
+      "color": "glimmer",
+      "band": "woven",
+      "preset": "lug",
+      "file": "snapshots/round-2/glimmer/woven/lug.png",
+      "bytes": 452332
+    },
+    {
+      "color": "glimmer",
+      "band": "metal",
+      "preset": "front",
+      "file": "snapshots/round-2/glimmer/metal/front.png",
+      "bytes": 145000
+    },
+    {
+      "color": "glimmer",
+      "band": "metal",
+      "preset": "back",
+      "file": "snapshots/round-2/glimmer/metal/back.png",
+      "bytes": 189225
+    },
+    {
+      "color": "glimmer",
+      "band": "metal",
+      "preset": "left",
+      "file": "snapshots/round-2/glimmer/metal/left.png",
+      "bytes": 189813
+    },
+    {
+      "color": "glimmer",
+      "band": "metal",
+      "preset": "right",
+      "file": "snapshots/round-2/glimmer/metal/right.png",
+      "bytes": 190356
+    },
+    {
+      "color": "glimmer",
+      "band": "metal",
+      "preset": "angle",
+      "file": "snapshots/round-2/glimmer/metal/angle.png",
+      "bytes": 235783
+    },
+    {
+      "color": "glimmer",
+      "band": "metal",
+      "preset": "macro",
+      "file": "snapshots/round-2/glimmer/metal/macro.png",
+      "bytes": 221348
+    },
+    {
+      "color": "glimmer",
+      "band": "metal",
+      "preset": "lug",
+      "file": "snapshots/round-2/glimmer/metal/lug.png",
+      "bytes": 328594
+    },
+    {
+      "color": "glimmer",
+      "band": "mesh",
+      "preset": "front",
+      "file": "snapshots/round-2/glimmer/mesh/front.png",
+      "bytes": 151329
+    },
+    {
+      "color": "glimmer",
+      "band": "mesh",
+      "preset": "back",
+      "file": "snapshots/round-2/glimmer/mesh/back.png",
+      "bytes": 257167
+    },
+    {
+      "color": "glimmer",
+      "band": "mesh",
+      "preset": "left",
+      "file": "snapshots/round-2/glimmer/mesh/left.png",
+      "bytes": 204241
+    },
+    {
+      "color": "glimmer",
+      "band": "mesh",
+      "preset": "right",
+      "file": "snapshots/round-2/glimmer/mesh/right.png",
+      "bytes": 199587
+    },
+    {
+      "color": "glimmer",
+      "band": "mesh",
+      "preset": "angle",
+      "file": "snapshots/round-2/glimmer/mesh/angle.png",
+      "bytes": 285561
+    },
+    {
+      "color": "glimmer",
+      "band": "mesh",
+      "preset": "macro",
+      "file": "snapshots/round-2/glimmer/mesh/macro.png",
+      "bytes": 252985
+    },
+    {
+      "color": "glimmer",
+      "band": "mesh",
+      "preset": "lug",
+      "file": "snapshots/round-2/glimmer/mesh/lug.png",
+      "bytes": 480861
+    }
+  ],
+  "errors": [],
+  "finishedAt": "2026-10-18T11:39:57.314Z"
+}

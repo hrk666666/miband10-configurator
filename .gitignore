@@ -3,9 +3,9 @@ dist/
 .DS_Store
 *.log
 
-# scratch outputs from debugging runs (kept only for the documented rounds)
+# scratch outputs from debugging runs (the documented rounds are kept)
 snapshots/_probe/
 snapshots/bands/
-snapshots/c*/
-snapshots/r*/
+snapshots/c[0-9]*/
+snapshots/r[0-9]*/
 snapshots/clean/
