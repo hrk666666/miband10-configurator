@@ -17,13 +17,16 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
-      - run: npm ci
+      # retries absorb the sporadic ECONNRESET seen on hosted runners
+      - run: npm ci --no-audit --no-fund --fetch-retries=5 --fetch-retry-mintimeout=15000 --fetch-retry-maxtimeout=60000
+        timeout-minutes: 10
       - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
