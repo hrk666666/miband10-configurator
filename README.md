@@ -91,6 +91,22 @@ python3 tools/analyze.py snapshots/round-1
 - 平面轮廓超椭圆指数 2.79（由拆解实拍 T06 拟合）
 - 全部参考图、来源 URL、像素测量见 `references/manifest.md`
 
+## 自动检测结果
+
+| 轮次 | 截图 | 自动判定 |
+|---|---|---|
+| round-1 | 175 张（5 配色 × 5 表带 × 7 机位） | 25 张报问题（背面机位裁切、陶瓷版偏暗） |
+| round-2 | 175 张 | **0 张报问题** |
+| acceptance | 8 个随机角度 | 无空白、无穿模、比例与参考图一致 |
+| features | 8 项交互 | 8/8 PASS |
+
+详见 `CHANGELOG.md`，原始数据在 `snapshots/*/analysis.json`。
+
+## 部署
+
+见 `docs/deploy.md`。仓库内含 GitHub Actions 工作流，推送到 `main` 后自动发布到 Pages。
+`./deploy.sh` 会在已登录 `gh` 的环境下完成建库、推送与开启 Pages。
+
 ## 已知取舍
 
 - 陶瓷版与耀影金仅有官方渲染图，无独立实拍，材质按渲染图与规格文字标定。

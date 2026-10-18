@@ -124,14 +124,14 @@ export function buildHalfBand(type, side, opt = {}) {
   }
 
   // ---- hole mask (only TPU) ------------------------------------------------------
-  const H = 12;
+  const H = 9;
   const holes = [];
   if (spec.holes && !opt.noHoles) {
     for (let h = 0; h < H; h++) {
-      const s = 0.30 + (h / (H - 1)) * 0.66;
+      const s = 0.46 + (h / (H - 1)) * 0.50;
       const i0 = Math.round(s * (n - 1));
       // 4.2 mm long x 4.6 mm wide oval slots, measured from R22
-      holes.push({ i0, halfI: 1.9, k0: (K - 1) / 2, halfK: 1.55 });
+      holes.push({ i0, halfI: 1.6, k0: (K - 1) / 2, halfK: 1.45 });
     }
   }
   const masked = (i, k) => holes.some((h) => Math.abs(i + 0.5 - h.i0) < h.halfI && Math.abs(k + 0.5 - h.k0) < h.halfK);
