@@ -112,3 +112,7 @@ python3 tools/analyze.py snapshots/round-1
 - 陶瓷版与耀影金仅有官方渲染图，无独立实拍，材质按渲染图与规格文字标定。
 - 机身无实体侧键（与部分资料描述不同），模型按拆解实拍建模。
 - 表带为单侧扣合形态，未建模蝶形扣/磁吸扣的完整机械结构（扣件区域为平滑过渡）。
+
+## License
+
+MIT（见 `LICENSE`）。`references/img/` 下的参考图片版权归各原始发布方所有，仅用于视觉比对与文档说明，不在 MIT 授权范围内，来源见 `references/manifest.md`。
