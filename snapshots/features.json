@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "name": "colourway switches frame colour",
+      "ok": true,
+      "detail": "2f2f33 -> f2efe9"
+    },
+    {
+      "name": "ceramic body is non-metallic",
+      "ok": true,
+      "detail": "metalness=0"
+    },
+    {
+      "name": "only the selected strap is visible",
+      "ok": true,
+      "detail": "{\"tpu\":[false,false],\"leather\":[false,false],\"woven\":[true,true],\"metal\":[false,false],\"mesh\":[false,false]}"
+    },
+    {
+      "name": "strap colour picker applies",
+      "ok": true,
+      "detail": "7a4a2a"
+    },
+    {
+      "name": "uploaded image replaces the watch face",
+      "ok": true,
+      "detail": "png bytes 12014 -> 17584"
+    },
+    {
+      "name": "camera preset changes viewpoint",
+      "ok": true,
+      "detail": "0,0,152 -> -172,6,-12"
+    },
+    {
+      "name": "canvas screenshot returns PNG data URL",
+      "ok": true,
+      "detail": "368 KB"
+    },
+    {
+      "name": "bend slider rotates the strap bones",
+      "ok": true,
+      "detail": "0,0.144,0,0.99 -> 0,0.161,0,0.987"
+    }
+  ],
+  "pass": 8,
+  "fail": 0
+}

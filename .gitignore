@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# scratch outputs from debugging runs (kept only for the documented rounds)
+snapshots/_probe/
+snapshots/bands/
+snapshots/c*/
+snapshots/r*/
+snapshots/clean/
